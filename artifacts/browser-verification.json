@@ -1,0 +1,29 @@
+[
+  {
+    "engine": "Chrome",
+    "version": "154.0.8037.93",
+    "nativeViewTransitions": true,
+    "transitionsStarted": 1,
+    "focusTrap": "pass",
+    "fallbackWithoutApi": "pass",
+    "errors": []
+  },
+  {
+    "engine": "Firefox",
+    "version": "155.0",
+    "nativeViewTransitions": true,
+    "transitionsStarted": 1,
+    "focusTrap": "pass",
+    "fallbackWithoutApi": "pass",
+    "errors": []
+  },
+  {
+    "engine": "WebKit",
+    "version": "26.6",
+    "nativeViewTransitions": true,
+    "transitionsStarted": 1,
+    "focusTrap": "pass",
+    "fallbackWithoutApi": "pass",
+    "errors": []
+  }
+]

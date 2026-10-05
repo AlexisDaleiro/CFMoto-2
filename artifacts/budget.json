@@ -1,0 +1,58 @@
+{
+  "measuredAt": "2026-10-05T21:30:39.404Z",
+  "viewport": "390 × 844, DPR 1",
+  "scriptGzipBytes": 145187,
+  "scripts": [
+    {
+      "path": "/_next/static/chunks/19mx3mg6lkumu.js",
+      "bytes": 28907,
+      "gzipBytes": 7614
+    },
+    {
+      "path": "/_next/static/chunks/3g4px251sg85e.js",
+      "bytes": 228922,
+      "gzipBytes": 71576
+    },
+    {
+      "path": "/_next/static/chunks/2z-e6jheq0ftu.js",
+      "bytes": 165979,
+      "gzipBytes": 45185
+    },
+    {
+      "path": "/_next/static/chunks/turbopack-03rfayxv7ep_b.js",
+      "bytes": 9721,
+      "gzipBytes": 3851
+    },
+    {
+      "path": "/_next/static/chunks/3fntmmi971322.js",
+      "bytes": 14377,
+      "gzipBytes": 3661
+    },
+    {
+      "path": "/_next/static/chunks/1lfixa4m1lz72.js",
+      "bytes": 30723,
+      "gzipBytes": 10782
+    },
+    {
+      "path": "/_next/static/chunks/3w98emuc87abv.js",
+      "bytes": 811,
+      "gzipBytes": 489
+    },
+    {
+      "path": "/_next/static/chunks/3s6nzrbk-8mnv.js",
+      "bytes": 5598,
+      "gzipBytes": 2029
+    }
+  ],
+  "hero": {
+    "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fmotos%2F800mt-touring%2Fhero.jpg&w=1280&q=65",
+    "naturalWidth": 1266,
+    "encodedBytes": 47402
+  },
+  "fonts": [
+    {
+      "path": "/_next/static/media/21ca8f3f56c22ca2-s.p.1cp9-4nby68jc.woff2",
+      "bytes": 90096
+    }
+  ]
+}

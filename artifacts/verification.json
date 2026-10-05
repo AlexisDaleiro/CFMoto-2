@@ -1,0 +1,322 @@
+{
+  "checkedAt": "2026-10-05T21:31:28.611Z",
+  "results": [
+    {
+      "route": "/",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos/800mt-touring",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos/cforce-1000",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv/zforce-1000-sport",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cotizar?modelo=800mt-touring",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/ruta-inexistente",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos/800mt-touring",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos/cforce-1000",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv/zforce-1000-sport",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cotizar?modelo=800mt-touring",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/ruta-inexistente",
+      "width": 390,
+      "scroll": 390,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos/800mt-touring",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos/cforce-1000",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv/zforce-1000-sport",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cotizar?modelo=800mt-touring",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/ruta-inexistente",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos/800mt-touring",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos/cforce-1000",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv/zforce-1000-sport",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cotizar?modelo=800mt-touring",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/ruta-inexistente",
+      "width": 1280,
+      "scroll": 1280,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/motos/800mt-touring",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cuatriciclos/cforce-1000",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/utv/zforce-1000-sport",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/cotizar?modelo=800mt-touring",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "route": "/ruta-inexistente",
+      "width": 1920,
+      "scroll": 1920,
+      "h1": 1,
+      "broken": []
+    }
+  ],
+  "errors": [],
+  "functional": "menu, filters, history, fixed CTA, colors, quote success, native validation, desktop dropdown, sitemap, all routes"
+}

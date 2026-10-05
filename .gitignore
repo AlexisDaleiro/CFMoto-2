@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+.token-optimizer/
+artifacts/browser-profile/
+artifacts/sources/
+.cfmoto-global.html
+.cfmoto-products.json

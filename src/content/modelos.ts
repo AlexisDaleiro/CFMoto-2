@@ -1,0 +1,1879 @@
+import type { Modelo } from "./types";
+
+export const modelos = [
+  {
+    "slug": "150nk",
+    "linea": "motos",
+    "nombre": "150NK",
+    "segmentoCc": 150,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 2490,
+    "destacado": false,
+    "bajada": "Línea 150NK. Segmento 150 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "250nk",
+    "linea": "motos",
+    "nombre": "250NK",
+    "segmentoCc": 250,
+    "cilindradaCc": 249,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 3990,
+    "destacado": false,
+    "bajada": "249 cc. Para la ciudad y la ruta.",
+    "imagenes": {
+      "hero": "/images/motos/250nk/hero.jpg",
+      "perfil": "/images/motos/250nk/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/motorcycles/naked/250nk.html"
+    ],
+    "potenciaHp": 27.5,
+    "torqueNm": 22,
+    "pesoKg": 151,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "Single cylinder, 4-stroke, Liquid cooled, 4-value, DOHC"
+          ],
+          [
+            "Cilindrada",
+            "249cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "72×61.2mm"
+          ],
+          [
+            "Potencia",
+            "20.5kW/9750rpm"
+          ],
+          [
+            "Torque",
+            "22N·m/7500rpm"
+          ],
+          [
+            "Compresión",
+            "11.3：1"
+          ],
+          [
+            "Encendido",
+            "ECU"
+          ],
+          [
+            "SPEEDING WAY",
+            "6-speed"
+          ],
+          [
+            "Alimentación",
+            "EFI"
+          ],
+          [
+            "STANDARD",
+            "Euro 5"
+          ],
+          [
+            "Modos de conducción",
+            "Sport/Eco"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "LENGHT x WIDTH x HEIGHT",
+            "1990×780×1070 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1360 mm"
+          ],
+          [
+            "Altura del asiento",
+            "795 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "150 mm"
+          ],
+          [
+            "Peso en orden de marcha",
+            "151 kg"
+          ],
+          [
+            "Tanque",
+            "12.5 L"
+          ],
+          [
+            "COLOR",
+            "Athens Blue/Nebula Black"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Suspensión",
+            "Front: Φ37 Telescopic upside-down · Rear: Mono, center-aligned"
+          ],
+          [
+            "Frenos",
+            "Front: Φ292mm Single-disc, 4-piston caliper · Rear: Φ220mm Single-disc,single piston caliper"
+          ],
+          [
+            "Llantas",
+            "Front: 3.5×17 MT · Rear: 4.0×17 MT"
+          ],
+          [
+            "Neumáticos",
+            "Front: 110/70 R17 M/C  · Rear: 140/60 R17 M/C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "300sr",
+    "linea": "motos",
+    "nombre": "300SR",
+    "segmentoCc": 300,
+    "cilindradaCc": 298,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 4990,
+    "destacado": false,
+    "bajada": "298 cc. Para la ciudad y la ruta.",
+    "imagenes": {
+      "hero": "/images/motos/300sr/hero.jpg",
+      "perfil": "/images/motos/300sr/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/motorcycles/sportracing/300sr.html"
+    ],
+    "potenciaHp": 29.5,
+    "torqueNm": 27,
+    "pesoKg": 155,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "Single-cylinder, liquid-cooled, DOHC"
+          ],
+          [
+            "Cilindrada",
+            "298cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "78 x 62.4mm"
+          ],
+          [
+            "Potencia máxima",
+            "22kW/9500rpm"
+          ],
+          [
+            "Torque máximo",
+            "27N.m/6500rpm"
+          ],
+          [
+            "Transmisión",
+            "Wet multi plate, slipper clutch"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2010x750x1100 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1365 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "135 mm"
+          ],
+          [
+            "Peso en orden de marcha",
+            "155kg"
+          ],
+          [
+            "Tanque",
+            "12L"
+          ],
+          [
+            "Colores",
+            "Nebula Black/Nebula White"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Suspensión delantera",
+            "Φ37 Upside down shocks"
+          ],
+          [
+            "Rear fok",
+            "300SR Swing-arm 300SR S Single swing-arm"
+          ],
+          [
+            "Suspensión trasera",
+            "Central monoshock"
+          ],
+          [
+            "Freno delantero",
+            "Φ300mm Single disc, opposed 4-piston caliper"
+          ],
+          [
+            "Freno trasero",
+            "Φ220mm Single disc, single-piston caliper"
+          ],
+          [
+            "Llantas",
+            "Aluminum alloy"
+          ],
+          [
+            "Neumático delantero",
+            "110/70 R17 "
+          ],
+          [
+            "Neumático trasero",
+            "140/60 R17 "
+          ],
+          [
+            "ABS",
+            "Standard"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "300nk",
+    "linea": "motos",
+    "nombre": "300NK",
+    "segmentoCc": 300,
+    "cilindradaCc": 292,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 4490,
+    "destacado": false,
+    "bajada": "292 cc. Para la ciudad y la ruta.",
+    "imagenes": {
+      "hero": "/images/motos/300nk/hero.jpg",
+      "perfil": "/images/motos/300nk/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/motorcycles/naked/300nk.html"
+    ],
+    "potenciaHp": 28.7,
+    "torqueNm": 25.3,
+    "pesoKg": 151,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "Single cylinder,4-stroke,Liquid cooled,4-value,DOHC"
+          ],
+          [
+            "Cilindrada",
+            "292cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "78×61.2mm"
+          ],
+          [
+            "Potencia",
+            "21.4kW/8750rpm"
+          ],
+          [
+            "Torque",
+            "25.3N.m/7250rpm"
+          ],
+          [
+            "Compresión",
+            "11:1"
+          ],
+          [
+            "Encendido",
+            "ECU"
+          ],
+          [
+            "Transmisión",
+            "6-speed"
+          ],
+          [
+            "Alimentación",
+            "EFI"
+          ],
+          [
+            "Modos de conducción",
+            "Sport/Eco"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "LENGHT x WIDTH x HEIGHT",
+            "1990 x 780 x 1070 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1360 mm"
+          ],
+          [
+            "Altura del asiento",
+            "795 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "150 mm"
+          ],
+          [
+            "Peso en orden de marcha",
+            "151 kg"
+          ],
+          [
+            "Tanque",
+            "12.5L"
+          ],
+          [
+            "MINIMUM TURNING DIAMETER",
+            "4.7m"
+          ],
+          [
+            "COLOR",
+            "Athens Blue/Nebula Black"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Suspensión",
+            "Front: Φ37 Telescopic upside-down · Rear: Mono, center-aligned"
+          ],
+          [
+            "Frenos",
+            "Front: Φ292mm Single-disc, 4-piston caliper · Rear: Φ220mm Single-disc,single piston caliper"
+          ],
+          [
+            "Llantas",
+            "Front:3.5×17MT · Rear:4.0×17MT"
+          ],
+          [
+            "TIRE PRESSURE",
+            "Front:110/70 R17 M/C · Rear:140/60 R17 M/C"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "400nk",
+    "linea": "motos",
+    "nombre": "400NK",
+    "segmentoCc": 400,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 5990,
+    "destacado": false,
+    "bajada": "Línea 400NK. Segmento 400 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "400gt",
+    "linea": "motos",
+    "nombre": "400GT",
+    "segmentoCc": 400,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 6990,
+    "destacado": false,
+    "bajada": "Línea 400GT. Segmento 400 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "450sr",
+    "linea": "motos",
+    "nombre": "450SR",
+    "segmentoCc": 450,
+    "cilindradaCc": 449.5,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 7990,
+    "destacado": false,
+    "bajada": "449.5 cc. Para la ciudad y la ruta.",
+    "imagenes": {
+      "hero": "/images/motos/450sr/hero.jpg",
+      "perfil": "/images/motos/450sr/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/motorcycles/sportracing/450sr.html"
+    ],
+    "potenciaHp": 51,
+    "torqueNm": 40,
+    "pesoKg": 179,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "449.5cc, twin-cylinder inline, liquid-cooled, 4-stroke, DOHC "
+          ],
+          [
+            "Cilindrada",
+            "449.5cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "72 mmx55.2 mm"
+          ],
+          [
+            "Potencia",
+            "38kW/9500rpm "
+          ],
+          [
+            "Torque",
+            "40Nm/7750rpm "
+          ],
+          [
+            "Compresión",
+            "11.5:1"
+          ],
+          [
+            "Embrague",
+            "Wet, mulit-plate, slipper clutch, 6-speed"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "1990mm x 715mm x 1165mm "
+          ],
+          [
+            "Distancia entre ejes",
+            "1370 mm"
+          ],
+          [
+            "Altura del asiento",
+            "795 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "140 mm"
+          ],
+          [
+            "Tanque",
+            "14 L"
+          ],
+          [
+            "Peso en orden de marcha",
+            "179 kg"
+          ],
+          [
+            "Colores",
+            "Nebula Black/Nebula White"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Suspensión delantera",
+            "Φ37mm USD forks "
+          ],
+          [
+            "Suspensión trasera",
+            "Monoshock "
+          ],
+          [
+            "Freno delantero",
+            "Φ320mm single disc, opposed four-piston caliper "
+          ],
+          [
+            "Freno trasero",
+            "Φ220mm single disc, single-piston caliper"
+          ],
+          [
+            "Neumático delantero",
+            "110/70 R17"
+          ],
+          [
+            "Neumático trasero",
+            "150/60 R17"
+          ],
+          [
+            "ABS",
+            "ABS"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "650mt",
+    "linea": "motos",
+    "nombre": "650MT",
+    "segmentoCc": 650,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 8990,
+    "destacado": false,
+    "bajada": "Línea 650MT. Segmento 650 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "650nk",
+    "linea": "motos",
+    "nombre": "650NK",
+    "segmentoCc": 650,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 7990,
+    "destacado": false,
+    "bajada": "Línea 650NK. Segmento 650 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "650gt",
+    "linea": "motos",
+    "nombre": "650GT",
+    "segmentoCc": 650,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 9990,
+    "destacado": false,
+    "bajada": "Línea 650GT. Segmento 650 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "650tr-g",
+    "linea": "motos",
+    "nombre": "650TR-G",
+    "segmentoCc": 650,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 10990,
+    "destacado": false,
+    "bajada": "Línea 650TR-G. Segmento 650 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "700cl-x-heritage",
+    "linea": "motos",
+    "nombre": "700CL-X Heritage",
+    "segmentoCc": 700,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 9990,
+    "destacado": false,
+    "bajada": "Línea 700CL-X Heritage. Segmento 700 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "700cl-x-sport",
+    "linea": "motos",
+    "nombre": "700CL-X Sport",
+    "segmentoCc": 700,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 10990,
+    "destacado": false,
+    "bajada": "Línea 700CL-X Sport. Segmento 700 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "800mt-touring",
+    "linea": "motos",
+    "nombre": "800MT Touring",
+    "segmentoCc": 800,
+    "cilindradaCc": 799,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 14990,
+    "destacado": true,
+    "bajada": "799 cc, dos cilindros. Del asfalto al balasto.",
+    "imagenes": {
+      "hero": "/images/motos/800mt-touring/hero.jpg",
+      "perfil": "/images/motos/800mt-touring/perfil.png",
+      "galeria": [
+        "/images/motos/800mt-touring/galeria-01.jpg",
+        "/images/motos/800mt-touring/galeria-02.jpg",
+        "/images/motos/800mt-touring/galeria-03.jpg",
+        "/images/motos/800mt-touring/galeria-04.jpg",
+        "/images/motos/800mt-touring/galeria-05.jpg"
+      ]
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/dam/cfmoto/site/global/product/motorcycle/mt----mult-touring/800mt-touring/documentation/2021_800MT%20brochure_International.pdf"
+    ],
+    "potenciaHp": 95,
+    "torqueNm": 77,
+    "pesoKg": 231,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo",
+            "Bicilíndrico en línea, DOHC, refrigeración líquida"
+          ],
+          [
+            "Cilindrada",
+            "799 cc"
+          ],
+          [
+            "Potencia máxima",
+            "95 HP / 9.000 rpm"
+          ],
+          [
+            "Torque máximo",
+            "77 Nm / 7.500 rpm"
+          ],
+          [
+            "Compresión",
+            "12,7:1"
+          ],
+          [
+            "Diámetro × carrera",
+            "88 × 65,7 mm"
+          ]
+        ]
+      },
+      {
+        "grupo": "Transmisión",
+        "filas": [
+          [
+            "Embrague",
+            "Multidisco húmedo, antirrebote CF-SC"
+          ],
+          [
+            "Quickshifter",
+            "Bidireccional"
+          ],
+          [
+            "Acelerador",
+            "Electrónico"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Suspensión delantera",
+            "KYB, recorrido 160 mm"
+          ],
+          [
+            "Suspensión trasera",
+            "KYB, recorrido 150 mm"
+          ],
+          [
+            "Freno delantero",
+            "Doble disco J.Juan, 320 mm"
+          ],
+          [
+            "Freno trasero",
+            "Disco J.Juan, 260 mm"
+          ],
+          [
+            "Ruedas",
+            "Rayos, 19 pulgadas / 17 pulgadas"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2.234 × 853 × 1.277 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1.531 mm"
+          ],
+          [
+            "Altura del asiento",
+            "≤ 825 mm"
+          ],
+          [
+            "Peso en orden de marcha",
+            "≤ 231 kg, sin maletas"
+          ],
+          [
+            "Tanque",
+            "≥ 19 L"
+          ]
+        ]
+      },
+      {
+        "grupo": "Electrónica",
+        "filas": [
+          [
+            "Instrumentación",
+            "TFT de 7 pulgadas"
+          ],
+          [
+            "ABS",
+            "ABS en curva"
+          ],
+          [
+            "Control crucero",
+            "Incluido"
+          ],
+          [
+            "TPMS",
+            "Monitoreo de presión de neumáticos"
+          ],
+          [
+            "Modos",
+            "Sport / Rain"
+          ],
+          [
+            "Iluminación",
+            "LED"
+          ]
+        ]
+      }
+    ],
+    "features": [
+      {
+        "titulo": "Dos cilindros. 77 Nm.",
+        "texto": "Motor de 799 cc con acelerador electrónico y modos Sport y Rain. Embrague antirrebote CF-SC para los cambios de marcha.",
+        "imagen": "/images/motos/800mt-touring/feature-motor.jpg"
+      },
+      {
+        "titulo": "La ruta, a tu ritmo.",
+        "texto": "Quickshifter bidireccional y control crucero. Suspensiones KYB con 160 mm delante y 150 mm detrás.",
+        "imagen": "/images/motos/800mt-touring/feature-ruta.jpg"
+      },
+      {
+        "titulo": "Todo a la vista.",
+        "texto": "Tablero TFT de 7 pulgadas, conectividad Bluetooth y monitoreo de presión de los neumáticos.",
+        "imagen": "/images/motos/800mt-touring/feature-tablero.jpg"
+      }
+    ],
+    "keySpecs": [
+      {
+        "etiqueta": "Cilindrada",
+        "valor": "799",
+        "unidad": "cc"
+      },
+      {
+        "etiqueta": "Potencia",
+        "valor": "95",
+        "unidad": "HP"
+      },
+      {
+        "etiqueta": "Torque",
+        "valor": "77",
+        "unidad": "Nm"
+      },
+      {
+        "etiqueta": "Peso en orden de marcha",
+        "valor": "231",
+        "unidad": "kg"
+      }
+    ]
+  },
+  {
+    "slug": "800mt-sport",
+    "linea": "motos",
+    "nombre": "800MT Sport",
+    "segmentoCc": 800,
+    "cilindradaCc": 799,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 13490,
+    "destacado": false,
+    "bajada": "799 cc. Para la ciudad y la ruta.",
+    "imagenes": {
+      "hero": "/images/motos/800mt-sport/hero.jpg",
+      "perfil": "/images/motos/800mt-sport/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/motorcycles/mult-touring/800mt_sport.html"
+    ],
+    "potenciaHp": 93.9,
+    "torqueNm": 77,
+    "pesoKg": 231,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "2-Cylinder inline，Liquid-cooled, EFI，Eight Valves, DOHC"
+          ],
+          [
+            "Cilindrada",
+            "799 cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "88.0×65.7 mm"
+          ],
+          [
+            "Potencia",
+            "70kW/9000rpm"
+          ],
+          [
+            "Torque",
+            "77N·m/7500rpm"
+          ],
+          [
+            "Compresión",
+            "12.7:1"
+          ],
+          [
+            "Embrague",
+            "Wet Multi Disc, Slipper Clutch"
+          ],
+          [
+            "Acelerador",
+            "Electronic"
+          ],
+          [
+            "Modos de conducción",
+            "Sport, Rain"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2234x853x1277 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1531 mm"
+          ],
+          [
+            "Altura del asiento",
+            "825 mm"
+          ],
+          [
+            "Tanque",
+            "19 L"
+          ],
+          [
+            "Peso en orden de marcha",
+            "231 kg (Not including side box)"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Freno delantero",
+            "Double disc, J.Juan, radial fixed caliper. 320mm"
+          ],
+          [
+            "Freno trasero",
+            "Single disc, J.Juan. 260mm"
+          ],
+          [
+            "ABS",
+            "ABS"
+          ],
+          [
+            "Cornering ABS",
+            "ABS"
+          ],
+          [
+            "Llave",
+            "Mechanical Fold Key"
+          ],
+          [
+            "Faro",
+            "LED (Low Beam always on)"
+          ],
+          [
+            "Magneto",
+            "350W"
+          ],
+          [
+            "Taillight",
+            "LED"
+          ],
+          [
+            "Turn Light",
+            "LED"
+          ],
+          [
+            "Fog light",
+            "LED"
+          ],
+          [
+            "Instrumentación",
+            "7\"TFT"
+          ],
+          [
+            "USB Charge",
+            "USB+12V DC"
+          ],
+          [
+            "Color",
+            "Nebula Black/Twilight Blue"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cforce-450s",
+    "linea": "cuatriciclos",
+    "nombre": "CFORCE 450S",
+    "segmentoCc": 400,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 6490,
+    "destacado": false,
+    "bajada": "Línea CFORCE 450S. Segmento 400 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "cforce-520l",
+    "linea": "cuatriciclos",
+    "nombre": "CFORCE 520L",
+    "segmentoCc": 500,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 7990,
+    "destacado": false,
+    "bajada": "Línea CFORCE 520L. Segmento 500 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "cforce-625",
+    "linea": "cuatriciclos",
+    "nombre": "CFORCE 625",
+    "segmentoCc": 600,
+    "cilindradaCc": 580,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 9490,
+    "destacado": false,
+    "bajada": "580 cc. Para el campo y los caminos de tierra.",
+    "imagenes": {
+      "hero": "/images/cuatriciclos/cforce-625/hero.jpg",
+      "perfil": "/images/cuatriciclos/cforce-625/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_625.html"
+    ],
+    "potenciaHp": 45,
+    "torqueNm": 51,
+    "pesoKg": 395,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "Liquid-cooled four-stroke single cylinder with EFI"
+          ],
+          [
+            "Cilindrada",
+            "580cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "91x89.2mm"
+          ],
+          [
+            "Potencia máxima",
+            "45hp@6500 rpm"
+          ],
+          [
+            "Torque máximo",
+            "51N·m@6000rpm"
+          ],
+          [
+            "Alimentación",
+            "EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT transmission H/L/N/R/P"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2186 x 1125 x 1162 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1280 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "270 mm"
+          ],
+          [
+            "Peso en orden de marcha",
+            "395 kg"
+          ],
+          [
+            "Capacidad de carga",
+            "240 kg"
+          ],
+          [
+            "Tanque",
+            "18 L"
+          ],
+          [
+            "Colores",
+            "Nebula Black/Velocity Grey/Hunter Green/ Twilight Blue/TT Camo"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Tracción",
+            "2WD/4WD thumb control with 4WD differential lock"
+          ],
+          [
+            "Frenos",
+            "4-Wheel Hydraulic Disc"
+          ],
+          [
+            "Suspensión",
+            "Front:Independent Dual A-Arm · Rear: Independent Dual A arm"
+          ],
+          [
+            "Amortiguadores",
+            "Oil shocks with preload adjustable"
+          ],
+          [
+            "Llantas",
+            "12 inch alloy"
+          ],
+          [
+            "Neumáticos",
+            "25 inch"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cforce-625-touring",
+    "linea": "cuatriciclos",
+    "nombre": "CFORCE 625 Touring",
+    "segmentoCc": 600,
+    "cilindradaCc": 580,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 10490,
+    "destacado": false,
+    "bajada": "580 cc. Para el campo y los caminos de tierra.",
+    "imagenes": {
+      "hero": "/images/cuatriciclos/cforce-625-touring/hero.jpg",
+      "perfil": "/images/cuatriciclos/cforce-625-touring/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_625_touring.html"
+    ],
+    "potenciaHp": 45,
+    "torqueNm": 51,
+    "pesoKg": 415,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "Liquid-cooled four-stroke single cylinder with EFI"
+          ],
+          [
+            "Cilindrada",
+            "580cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "91x89.2mm"
+          ],
+          [
+            "Potencia máxima",
+            "45hp@6500 rpm"
+          ],
+          [
+            "Torque máximo",
+            "51N·m@6000rpm"
+          ],
+          [
+            "Alimentación",
+            "EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT transmission H/L/N/R/P"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2235 x 1180 x 1390 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1480 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "270 mm"
+          ],
+          [
+            "Peso en orden de marcha",
+            "415 kg"
+          ],
+          [
+            "Capacidad de carga",
+            "240 kg"
+          ],
+          [
+            "Tanque",
+            "18 L"
+          ],
+          [
+            "Colores",
+            "Twilight Blue/Nebula Black/TT KANATI/ Velocity Grey/CM Hunter Green"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Tracción",
+            "2WD/4WD thumb control with 4WD differential lock"
+          ],
+          [
+            "Frenos",
+            "4-Wheel Hydraulic Disc"
+          ],
+          [
+            "Suspensión",
+            "Front:Independent Dual A-Arm · Rear: Independent Dual A arm"
+          ],
+          [
+            "Amortiguadores",
+            "Oil shocks with preload adjustable"
+          ],
+          [
+            "Llantas",
+            "12 inch alloy"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cforce-850xc",
+    "linea": "cuatriciclos",
+    "nombre": "CFORCE 850XC",
+    "segmentoCc": 800,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 12990,
+    "destacado": false,
+    "bajada": "Línea CFORCE 850XC. Segmento 800 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "cforce-1000",
+    "linea": "cuatriciclos",
+    "nombre": "CFORCE 1000",
+    "segmentoCc": 1000,
+    "cilindradaCc": 963,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 14990,
+    "destacado": true,
+    "bajada": "963 cc. Para el campo y los caminos de tierra.",
+    "imagenes": {
+      "hero": "/images/cuatriciclos/cforce-1000/hero.jpg",
+      "perfil": "/images/cuatriciclos/cforce-1000/perfil.png",
+      "galeria": [
+        "/images/cuatriciclos/cforce-1000/galeria-01.jpg",
+        "/images/cuatriciclos/cforce-1000/galeria-02.jpg",
+        "/images/cuatriciclos/cforce-1000/galeria-03.jpg",
+        "/images/cuatriciclos/cforce-1000/galeria-04.jpg"
+      ]
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_1000.html"
+    ],
+    "potenciaHp": 71,
+    "torqueNm": 71,
+    "pesoKg": 490,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "Liquid-cooled four-stroke V-twin with EFI"
+          ],
+          [
+            "Cilindrada",
+            "963cc"
+          ],
+          [
+            "Diámetro × carrera",
+            "91x74mm"
+          ],
+          [
+            "Potencia máxima",
+            "71hp@7000rpm"
+          ],
+          [
+            "Torque máximo",
+            "71N.m@6500rpm"
+          ],
+          [
+            "Alimentación",
+            "EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT transmission H/L/N/R/P"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2395 x 1264 x 1420 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1480 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "300 mm"
+          ],
+          [
+            "Peso en orden de marcha",
+            "490 kg"
+          ],
+          [
+            "Capacidad de carga",
+            "240 kg"
+          ],
+          [
+            "Tanque",
+            "30 L"
+          ],
+          [
+            "Colores",
+            "Lava Orange/Royal Blue/Ghost Grey/True Timber Camo"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Tracción",
+            "2WD/4WD/4WD lock"
+          ],
+          [
+            "Frenos",
+            "4-Wheel Hydraulic Disc"
+          ],
+          [
+            "Suspensión",
+            "Front:Independent Dual A-Arm · Rear: Trailing Arm Independent"
+          ],
+          [
+            "Amortiguadores",
+            "Gas, compression/rebound adjustable"
+          ],
+          [
+            "Llantas",
+            "14 inch alloy"
+          ],
+          [
+            "Neumáticos",
+            "27 inch"
+          ]
+        ]
+      }
+    ],
+    "colores": [
+      {
+        "nombre": "True Timber Camo",
+        "hex": "#5c6045",
+        "imagen": "/images/cuatriciclos/cforce-1000/color-true-timber-camo.png"
+      },
+      {
+        "nombre": "Royal Blue",
+        "hex": "#235a82",
+        "imagen": "/images/cuatriciclos/cforce-1000/color-royal-blue.png"
+      },
+      {
+        "nombre": "Lava Orange",
+        "hex": "#c6672f",
+        "imagen": "/images/cuatriciclos/cforce-1000/color-lava-orange.png"
+      },
+      {
+        "nombre": "Ghost Grey",
+        "hex": "#898b8d",
+        "imagen": "/images/cuatriciclos/cforce-1000/color-ghost-grey.png"
+      }
+    ],
+    "features": [
+      {
+        "titulo": "963 cc para el campo.",
+        "texto": "Motor V-twin con inyección electrónica. Transmisión CVT con alta, baja, neutro, reversa y estacionamiento.",
+        "imagen": "/images/cuatriciclos/cforce-1000/feature-01.jpg"
+      }
+    ],
+    "keySpecs": [
+      {
+        "etiqueta": "Cilindrada",
+        "valor": "963",
+        "unidad": "cc"
+      },
+      {
+        "etiqueta": "Potencia",
+        "valor": "71",
+        "unidad": "HP"
+      },
+      {
+        "etiqueta": "Torque",
+        "valor": "71",
+        "unidad": "Nm"
+      },
+      {
+        "etiqueta": "Peso en orden de marcha",
+        "valor": "490",
+        "unidad": "kg"
+      }
+    ]
+  },
+  {
+    "slug": "cforce-1000-overland",
+    "linea": "cuatriciclos",
+    "nombre": "CFORCE 1000 Overland",
+    "segmentoCc": 1000,
+    "cilindradaCc": 963,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 17490,
+    "destacado": false,
+    "bajada": "963 cc. Para el campo y los caminos de tierra.",
+    "imagenes": {
+      "hero": "/images/cuatriciclos/cforce-1000-overland/hero.jpg",
+      "perfil": "/images/cuatriciclos/cforce-1000-overland/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_1000_overland.html"
+    ],
+    "potenciaHp": 85,
+    "torqueNm": 85,
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "V-twin, 4-stroke, liquid-cooled, DOHC"
+          ],
+          [
+            "Cilindrada",
+            "963cc"
+          ],
+          [
+            "Potencia máxima",
+            "85hp@7500rpm"
+          ],
+          [
+            "Torque máximo",
+            "85N.m@5500rpm "
+          ],
+          [
+            "Alimentación",
+            "Bosch EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT, P-R-N-H-L"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2435×1282×1465 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1480 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "300 mm"
+          ],
+          [
+            "Peso en seco",
+            "489kg"
+          ],
+          [
+            "Capacidad de carga",
+            "300 kg"
+          ],
+          [
+            "Tanque",
+            "26 L"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Tracción",
+            "2WD/4WD with locking differential"
+          ],
+          [
+            "Frenos",
+            "Four-wheel hydraulic disc brakes, single-piston caliper"
+          ],
+          [
+            "Suspensión delantera",
+            "High clearance A-arm independent, 230mm travel"
+          ],
+          [
+            "Suspensión trasera",
+            "Trailing arm independent, 236mm travel"
+          ],
+          [
+            "Amortiguadores",
+            "Coil spring shock absorbers with oil dampening"
+          ],
+          [
+            "Llantas",
+            "14-inch alloy"
+          ],
+          [
+            "Neumático delantero",
+            "27x 9 R14 "
+          ],
+          [
+            "Neumático trasero",
+            "27x 11 R14"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zforce-550ex",
+    "linea": "utv",
+    "nombre": "ZFORCE 550EX",
+    "segmentoCc": 500,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 11990,
+    "destacado": false,
+    "bajada": "Línea ZFORCE 550EX. Segmento 500 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  },
+  {
+    "slug": "uforce-600",
+    "linea": "utv",
+    "nombre": "UFORCE 600",
+    "segmentoCc": 600,
+    "cilindradaCc": 580,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 13990,
+    "destacado": false,
+    "bajada": "580 cc. Para el campo y los caminos de tierra.",
+    "imagenes": {
+      "hero": "/images/utv/uforce-600/hero.jpg",
+      "perfil": "/images/utv/uforce-600/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/sxs/utility/uforce_600.html"
+    ],
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "SINGLE CYLINDER, LIQUID COOLED, 4-STROKE, SOHC, 4-VALVE"
+          ],
+          [
+            "Cilindrada",
+            "580cc"
+          ],
+          [
+            "Alimentación",
+            "BOSCH® EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT transmission P/R/N/H/L"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2820×1470×1950 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1950 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "270 mm"
+          ],
+          [
+            "Peso en seco",
+            "607kg"
+          ],
+          [
+            "Capacidad de carga",
+            "410 kg"
+          ],
+          [
+            "Tanque",
+            "35 L"
+          ],
+          [
+            "Carga de caja",
+            "250 kg"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Tracción",
+            "2WD/4WD"
+          ],
+          [
+            "Frenos",
+            "4-Wheel Hydraulic Disc"
+          ],
+          [
+            "Suspensión",
+            " Double A-arm independent suspension"
+          ],
+          [
+            "Amortiguadores",
+            "Oil with pre-load Adjustment"
+          ],
+          [
+            "Llantas",
+            "12 inch"
+          ],
+          [
+            "Neumáticos",
+            "25 inch； 26 inch"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "uforce-1000",
+    "linea": "utv",
+    "nombre": "UFORCE 1000",
+    "segmentoCc": 1000,
+    "cilindradaCc": 963,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 18990,
+    "destacado": false,
+    "bajada": "963 cc. Para el campo y los caminos de tierra.",
+    "imagenes": {
+      "hero": "/images/utv/uforce-1000/hero.jpg",
+      "perfil": "/images/utv/uforce-1000/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/sxs/utility/uforce_1000.html"
+    ],
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "V-TWIN CYLINDER, LIQUID COOLED, 4-STROKE, SOHC, 8-VALVE"
+          ],
+          [
+            "Cilindrada",
+            "963 cc"
+          ],
+          [
+            "Alimentación",
+            "BOSCH® EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT transmission P/R/N/H/L"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "2945×1615×1850 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "2050 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "280 mm"
+          ],
+          [
+            "Capacidad de carga",
+            "685 kg"
+          ],
+          [
+            "Tanque",
+            "40 L"
+          ],
+          [
+            "Carga de caja",
+            "350 kg"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Tracción",
+            "2WD/4WD"
+          ],
+          [
+            "Frenos",
+            "4-Wheel Hydraulic Disc"
+          ],
+          [
+            "Suspensión",
+            " Double A-arm independent suspension"
+          ],
+          [
+            "Amortiguadores",
+            "Oil with pre-load Adjustment"
+          ],
+          [
+            "Llantas",
+            "14 inch"
+          ],
+          [
+            "Neumáticos",
+            "27 inch"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "uforce-1000-xl",
+    "linea": "utv",
+    "nombre": "UFORCE 1000 XL",
+    "segmentoCc": 1000,
+    "cilindradaCc": 963,
+    "datosTecnicosVerificados": true,
+    "precioDesdeUsd": 21990,
+    "destacado": false,
+    "bajada": "963 cc. Para el campo y los caminos de tierra.",
+    "imagenes": {
+      "hero": "/images/utv/uforce-1000-xl/hero.jpg",
+      "perfil": "/images/utv/uforce-1000-xl/perfil.png"
+    },
+    "fuentes": [
+      "https://www.cfmoto.com/content/cfmoto/global/sxs/utility/uforce_1000_xl.html"
+    ],
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo de motor",
+            "V-TWIN CYLINDER, LIQUID COOLED, 4-STROKE, SOHC, 8-VALVE"
+          ],
+          [
+            "Cilindrada",
+            "963cc"
+          ],
+          [
+            "Alimentación",
+            "BOSCH® EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT transmission P/R/N/H/L"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Largo × ancho × alto",
+            "3770×1615×1850 mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "2850 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "280 mm"
+          ],
+          [
+            "Capacidad de carga",
+            "660 kg"
+          ],
+          [
+            "Tanque",
+            "40 L"
+          ],
+          [
+            "Colores",
+            "Twilight Blue/Nebula Black/TT KANATI/Desert Tan"
+          ],
+          [
+            "Carga de caja",
+            "350 kg"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis",
+        "filas": [
+          [
+            "Tracción",
+            "2WD/4WD/Front differential lock"
+          ],
+          [
+            "Frenos",
+            "4-Wheel Hydraulic Disc"
+          ],
+          [
+            "Suspensión",
+            " Double A-arm independent suspension"
+          ],
+          [
+            "Amortiguadores",
+            "Oil with pre-load Adjustment"
+          ],
+          [
+            "Llantas",
+            "14 inch"
+          ],
+          [
+            "Neumáticos",
+            "27 inch"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "zforce-1000-sport",
+    "linea": "utv",
+    "nombre": "ZFORCE 1000 Sport",
+    "segmentoCc": 1000,
+    "datosTecnicosVerificados": false,
+    "precioDesdeUsd": 22990,
+    "destacado": true,
+    "bajada": "Línea ZFORCE 1000 Sport. Segmento 1000 cc.",
+    "imagenes": {
+      "hero": "",
+      "perfil": ""
+    },
+    "fuentes": []
+  }
+] satisfies Modelo[];

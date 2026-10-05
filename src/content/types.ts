@@ -1,0 +1,30 @@
+export type Linea = "motos" | "cuatriciclos" | "utv";
+export type Modelo = {
+  slug: string;
+  linea: Linea;
+  nombre: string;
+  segmentoCc: number;
+  cilindradaCc?: number;
+  datosTecnicosVerificados: boolean;
+  potenciaHp?: number;
+  torqueNm?: number;
+  pesoKg?: number;
+  precioDesdeUsd?: number;
+  destacado?: boolean;
+  bajada: string;
+  imagenes: { hero: string; perfil: string; galeria?: string[] };
+  colores?: { nombre: string; hex: string; imagen: string }[];
+  keySpecs?: { etiqueta: string; valor: string; unidad?: string }[];
+  features?: { titulo: string; texto: string; imagen: string }[];
+  specs?: { grupo: string; filas: [string, string][] }[];
+  fuentes: string[];
+};
+export type DatosLinea = {
+  slug: Linea;
+  nombre: string;
+  numero: string;
+  titulo: string;
+  bajada: string;
+  descripcion: string;
+  modeloPortada: string;
+};
