@@ -186,5 +186,203 @@
         ]
       }
     ]
+  },
+  {
+    "path": "/motos",
+    "base": "https://cfmoto-2-nixky91oi-alexis20.vercel.app",
+    "fetchTime": "2026-10-09T04:30:32.356Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 61
+    },
+    "metrics": {
+      "first-contentful-paint": 1238.896,
+      "largest-contentful-paint": 2266.3959999999997,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 27.5,
+      "speed-index": 1238.896,
+      "total-byte-weight": 414400
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T04:30:06.609Z",
+        "categories": {
+          "performance": 98,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 61
+        },
+        "metrics": {
+          "first-contentful-paint": 1236.2469999999998,
+          "largest-contentful-paint": 2255.247,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 27.5,
+          "speed-index": 1236.2469999999998,
+          "total-byte-weight": 414398
+        },
+        "failed": [
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 21 KiB"
+          },
+          {
+            "id": "is-crawlable",
+            "score": 0
+          },
+          {
+            "id": "robots-txt",
+            "score": 0
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "4 failure reasons"
+          },
+          {
+            "id": "forced-reflow-insight",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0,
+            "displayValue": "Est savings of 14 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0.5
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T04:30:17.404Z",
+        "categories": {
+          "performance": 92,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 61
+        },
+        "metrics": {
+          "first-contentful-paint": 2130.192,
+          "largest-contentful-paint": 2360.073,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 154.5,
+          "speed-index": 4448.698035125879,
+          "total-byte-weight": 414555
+        },
+        "failed": [
+          {
+            "id": "first-contentful-paint",
+            "score": 0.8,
+            "displayValue": "2.1 s"
+          },
+          {
+            "id": "speed-index",
+            "score": 0.73,
+            "displayValue": "4.4 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.75,
+            "displayValue": "180 ms"
+          },
+          {
+            "id": "mainthread-work-breakdown",
+            "score": 0,
+            "displayValue": "2.7 s"
+          },
+          {
+            "id": "bootup-time",
+            "score": 0,
+            "displayValue": "1.6 s"
+          },
+          {
+            "id": "is-crawlable",
+            "score": 0
+          },
+          {
+            "id": "robots-txt",
+            "score": 0,
+            "displayValue": "14 errors found"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "3 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 14 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0.5
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T04:30:32.356Z",
+        "categories": {
+          "performance": 98,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 61
+        },
+        "metrics": {
+          "first-contentful-paint": 1238.896,
+          "largest-contentful-paint": 2266.3959999999997,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 27.5,
+          "speed-index": 1238.896,
+          "total-byte-weight": 414400
+        },
+        "failed": [
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 27 KiB"
+          },
+          {
+            "id": "is-crawlable",
+            "score": 0
+          },
+          {
+            "id": "robots-txt",
+            "score": 0,
+            "displayValue": "14 errors found"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "3 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0,
+            "displayValue": "Est savings of 14 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0.5
+          }
+        ]
+      }
+    ]
   }
 ]
