@@ -12,12 +12,14 @@ export type Modelo = {
   precioDesdeUsd?: number;
   destacado?: boolean;
   bajada: string;
-  imagenes: { hero: string; perfil: string; galeria?: string[] };
+  imagenes: { hero: string; heroMobile?: string; perfil: string; galeria?: string[] };
   colores?: { nombre: string; hex: string; imagen: string }[];
   keySpecs?: { etiqueta: string; valor: string; unidad?: string }[];
   features?: { titulo: string; texto: string; imagen: string }[];
   specs?: { grupo: string; filas: [string, string][] }[];
   fuentes: string[];
+  origen?: { version: string; anio?: number; mercado: string };
+  piesGaleria?: string[];
 };
 export type DatosLinea = {
   slug: Linea;

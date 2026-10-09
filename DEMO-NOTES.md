@@ -1,80 +1,50 @@
 # Notas de la demo CFMOTO Uruguay
 
-Preparada el 5 de octubre de 2026. Es una demo navegable para presentación; la definición de terminado del prompt tiene pendientes indicados abajo.
+Actualizacion: 9 de octubre de 2026. Esta entrega implementa la segunda fase, pero no declara cerrados los hitos de contenido y rendimiento. Estado, preview fijado y evidencias: ENTREGA-FASE-2.md.
 
-## Qué está implementado
+## Experiencia Implementada
 
-Home, las tres líneas, las 27 fichas del catálogo, Cotizar/Test ride, 404, sitemap y robots. Páginas estáticas, datos tipados, fuentes oficiales locales, metadata, JSON-LD, filtros con URL e historial, menú por teclado, colores en CFORCE 1000, galerías, acordeones, transiciones nativas y barra móvil de cotización.
+Home, tres lineas, 27 fichas, Cotizar/Test ride, 404, sitemap y robots. Slugs y parametros publicos se conservan. Las tres fichas destacadas tienen cuatro cifras, cuatro o mas fotos de galeria, tres bloques de equipamiento y especificaciones agrupadas. ZFORCE 1000 Sport es el modelo exacto, no Sport R ni 950.
 
-`npm run build`, `npm run lint` y TypeScript pasan. La verificación recorre 45 combinaciones de nueve rutas con anchos 360, 390, 768, 1280 y 1920; sin desbordes horizontales. Comprueba las 32 páginas del sitemap, el formulario, la precarga por modelo/test ride, historial, colores, menú y CTA fijo. Evidencia: `artifacts/verification.json` y `artifacts/screenshots/`.
+Los 27 modelos tienen fotografia oficial identificable y cilindrada documentada. Esto no certifica nitidez ni correspondencia con la oferta uruguaya: 23 modelos tienen algun recurso de menos de 1600 px; los anos/versiones no confirmados y las discrepancias permanecen en CATALOGO.md. Los recursos pequenos no se amplian para inventar detalle. La 800MT reemplaza el perfil de 325 x 217 por uno de 2400 x 1600; mantiene pendientes algunos detalles y colores oficiales de esa version.
 
-Chrome, Firefox y WebKit pasan la transición card → ficha, el recorrido de foco del menú y el cierre con Esc. Se prueba también navegación sin `document.startViewTransition` y con movimiento reducido. WebKit es una comprobación del motor; Safari real en iPhone/macOS queda pendiente. Versiones y resultados en `artifacts/browser-verification.json`.
+## Simulaciones
 
-## Simulaciones y datos a confirmar
+- Cada precio es ilustrativo y se identifica como demo. Product conserva descripcion y marca, sin Offer ni precio ficticio estructurado.
+- El formulario valida en servidor, conserva campos ante errores y bloquea el boton durante la validacion. El exito declara explicitamente que no envia, guarda ni agenda datos.
+- Todos los CTAs de WhatsApp abren el mismo dialogo de prueba. Preparan cotizacion o test ride por modelo/linea, sin nombre, telefono ni departamento. Copiar y cerrar son las unicas acciones; Esc y retorno de foco funcionan.
+- La generacion del mensaje es independiente del constructor de enlace externo. Ese constructor no se usa en ningun CTA de esta entrega.
+- Direccion, horarios, telefonos, redes y talleres requieren aprobacion del distribuidor. Bikeup (2508 818) y MYM Salto (2508 8185) conservan los valores originales, con posibles errores documentados.
+- No hay CMS, CRM, email, pagos, cuentas, financiacion, comparador, blog, analytics ni base de datos conectados. Las propuestas de operacion no se implementaron.
 
-- Todos los precios en USD son referencias inventadas para mostrar la interfaz. No provienen del distribuidor, no indican stock ni constituyen ofertas comerciales. Se identifican como demo en pantalla y en la descripción de Product/Offer.
-- El formulario valida en el servidor y devuelve éxito simulado. No envía, almacena ni agenda consultas; la pantalla lo explica. El paso siguiente es el enlace de WhatsApp. No hay CRM, email ni base de datos conectados.
-- Confirmar WhatsApp +598 98 379 380 antes de publicar.
-- Confirmar Bikeup: 2508 818, aparentemente incompleto; MYM Salto: 2508 8185, posiblemente duplicado o incorrecto. Se conservaron los valores del prompt.
-- Dirección, horarios, teléfonos, redes y talleres fueron aportados por el prompt. Confirmarlos con el distribuidor; no se verificaron con una llamada ni con un mensaje.
-- Confirmar disponibilidad, equipamiento, año y homologación de cada versión para Uruguay. Las especificaciones consultadas son de versiones internacionales y la ficha lo aclara.
-- El acento usa el fallback solicitado `#0089D0`; confirmar el manual de marca del distribuidor. El logo SVG sí es oficial.
-- Antes del despliegue, configurar `NEXT_PUBLIC_SITE_URL`, recompilar y comprobar canonical, sitemap y datos estructurados en el dominio final. No se realizó ningún despliegue.
+## Contenido Verificable
 
-## Fuentes y límites del catálogo
+Fuentes y mercado de origen por modelo en src/content/modelos.ts; inventario por archivo en IMAGES.md. segmentoCc representa agrupacion comercial, no cilindrada. No se deduce ano de version a partir de la carpeta de una imagen.
 
-Hay datos técnicos y recursos oficiales para 13 modelos. Para los otros 14 se conserva el nombre y segmento comercial del catálogo aportado, con ImagenPendiente y sin cifras técnicas ni tablas inventadas. `segmentoCc` alimenta los filtros; `cilindradaCc` es opcional y se carga únicamente si hay una fuente técnica. Ejemplo: segmento 600, cilindrada verificada 580 cc en CFORCE 625. Esta distinción evita publicar la agrupación nominal como cilindrada real.
+Se omiten cifras discrepantes no resueltas: potencia del ZFORCE 1000 Sport y tanque de la 650GT. CFORCE 450S usa 400 cc de la ficha oficial sudafricana frente a 495 cc de la tabla uruguaya, con procedencia explicita. CFORCE 1000 conserva la tabla global de 71 HP, mientras su texto promocional dice 85 HP; la aprobacion local sigue pendiente. Los valores nuevos de 700CL-X conservan kW de origen.
 
-Las fuentes por modelo están en `src/content/modelos.ts`; el inventario completo y sus faltantes están en `IMAGES.md`. No se usan fotografías de otro modelo para cubrir faltantes.
+SOLICITUD-MATERIALES.md es una solicitud consolidada preparada, no enviada. El responsable del proyecto debe gestionarla y aprobar version/ano, equipamiento, precios y derechos de uso.
 
-- 800MT Touring: datos y fotografías del folleto internacional oficial de 2021. Tiene cuatro cifras, cinco imágenes de galería, tres features y cinco grupos técnicos. El perfil transparente disponible es de solo 325 × 217 px: necesita un original mayor para escritorio. No se encontró una imagen exacta por color de buena resolución; se omitió el selector.
-- CFORCE 1000: cuatro cifras, cuatro colores con sus fotografías, galería, tres features y especificaciones oficiales. La página global contiene una discrepancia entre el texto comercial (85 HP) y su tabla técnica (71 HP); se usó la tabla, con 963 cc y 71 Nm. El cliente debe confirmar la versión local.
-- ZFORCE 1000 Sport: queda como ficha básica. No se encontró una ficha técnica ni un conjunto de imágenes del modelo exacto en las fuentes oficiales permitidas. ZFORCE 950 Sport y ZFORCE 1000 Sport R son variantes distintas y no se sustituyeron. La tercera ficha estrella completa es un pendiente de contenido.
-- Cuando una fuente expresa potencia en kW, se convierte a HP mecánicos con 1 kW = 1,34102209 HP y se redondea a un decimal. Las tablas conservan el valor y unidad de origen.
-- Los datos institucionales de 1989, Hangzhou e I+D provienen de la página global de la marca. Se usa su dato actual de presencia en más de 100 países/regiones, superior al mínimo mencionado en el prompt.
+## Evidencia y Limites
 
-## Mediciones
+Build, lint y typecheck; pruebas automatizadas de 32 rutas, 45 combinaciones responsivas, DPR 1/2, menus, filtros/historial, formulario, doble activacion durante envio, copia/errores/foco/Esc y ausencia de enlaces reales de WhatsApp. Evidencia fechada: artifacts/verification.json.
 
-Los resultados finales se registran abajo a partir de Lighthouse 13 sobre la compilación de producción local, en Chrome, con emulación móvil y throttling simulado. No son una medición de usuarios reales ni garantizan el resultado de un hosting futuro. Los reportes HTML/JSON conservan los parámetros exactos.
+Chrome, Firefox y WebKit verifican transicion, foco, Esc, navegacion sin API y movimiento reducido. artifacts/browser-verification.json. La cobertura automatizada no equivale a revisar cada combinacion manualmente. Safari real en iPhone y revision humana final de nitidez/contraste/control tactil siguen pendientes.
 
-El sitio actual respondió HTTP 403 durante la investigación. Sus valores de 3,2 MB, 46 recursos, aproximadamente 3,3 s y ausencia de H1/description son los suministrados por `PROMPT-CODEX.md`; no se presentan como una medición nueva. Tiempo de carga informado y LCP son métricas diferentes.
+Lighthouse: ocho rutas y tres ejecuciones moviles por ruta, medianas independientes, sin seleccionar la mejor ejecucion. artifacts/lighthouse/METRICS.md y acceptance.json describen cada criterio. En local indexable se exige SEO 100; en preview se comprueba la exclusion de indexacion por separado. Los informes anteriores se conservan en artifacts/phase1/ y artifacts/phase2-iteration*-lighthouse/.
 
-<!-- METRICS -->
+El limite obligatorio de JavaScript es 145.187 bytes gzip con el metodo original, no un cambio de metodologia para bajar el valor. El objetivo aspiracional de menos de 120 KB no se cumple. De la compilacion local final se identifican 130.744 bytes en chunks puros de framework/runtime; 14.374 en chunks mixtos de aplicacion y helpers compartidos. No es una atribucion exacta por modulo: la compresion no es aditiva. Detalle en artifacts/budget.json.
 
-| Página | Performance | Accesibilidad | Best Practices | SEO | LCP | CLS | TBT | Transferencia total |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| / | 94 | 100 | 100 | 100 | 3.09 s | 0.0000 | 42 ms | 384.4 KB |
-| /motos | 96 | 100 | 100 | 100 | 2.78 s | 0.0000 | 52 ms | 347.1 KB |
-| /motos/800mt-touring | 94 | 100 | 100 | 100 | 2.95 s | 0.0000 | 129 ms | 372.0 KB |
+Event Timing de los tres recorridos es laboratorio, sin throttling, y no demuestra INP de usuarios reales. No se deriva INP a partir de TBT. artifacts/interactions.json conserva eventos y metodo.
 
-Última auditoría: 2026-10-05T21:31:58.142Z. Se conserva la última ejecución completa, sin seleccionar únicamente los mejores valores.
+## NoFallbackError
 
-| Dato | Sitio actual, informado en el prompt | Demo, medido en el home |
-|---|---|---|
-| Transferencia | 3,2 MB | 0.38 MB |
-| Carga / LCP | ~3,3 s de carga, método no informado | 3.09 s de LCP simulado |
-| H1 | Ausente | Un H1 por página |
-| Meta description | Ausente | Única, 140–160 caracteres, en las 32 páginas |
+Se reprodujo el registro Internal: NoFallbackError con Next.js 16.3.8 al solicitar rutas de catalogo no generadas con dynamicParams=false. Cuatro rutas inexistentes devuelven HTTP 404 y la interfaz propia; el navegador no presenta errores. El manifest de prerender usa fallback=false. Evidencia: artifacts/404-diagnostic.json.
 
-JS inicial del home: **145.2 KB gzip**. Se suman los archivos únicos script[src] presentes en el HTML inicial, recomprimidos con gzip, excluyendo el polyfill noModule que Chrome moderno no ejecuta y las precargas de otras rutas. El objetivo < 120 KB **no se cumple**. Detalle reproducible: node scripts/measure-budget.mjs, artifacts/budget.json.
+La asociacion con el rechazo de rutas estaticas del framework esta reproducida; la consola de produccion no expone una traza interna completa. No se ampliaron rutas ni actualizaron dependencias para ocultar el registro. Revisar la traza interna con el proveedor antes de considerar el diagnostico de causa completamente cerrado.
 
-Hero móvil: **47.4 KB AVIF**, 390 × 844 y DPR 1, imagen optimizada de 1280 px; cumple < 250 KB. Se carga un archivo de fuente Archivo variable, 90.1 KB, con preload.
+## Publicacion
 
-CLS < 0,05: **cumple en las tres páginas**. LCP < 2 s: **pendiente**.
+Preview separado en el proyecto existente de Vercel. Produccion no se promovio y los despliegues anteriores se conservaron. Metadata y X-Robots-Tag usan noindex, nofollow; robots permite leer esa politica. Canonical, sitemap e imagenes sociales usan la URL del preview. El sitemap no fue enviado a buscadores.
 
-Umbrales Lighthouse (Performance ≥ 95, Accesibilidad ≥ 95, SEO 100, Best Practices ≥ 95): **pendiente en las páginas con Performance < 95 de la tabla**.
-
-Reportes: `artifacts/lighthouse/home.html`, `motos.html`, `motos-800mt-touring.html` y los JSON correspondientes. Los puntajes y tiempos varían con el hardware, la carga del equipo y el servidor; volver a auditar en el hosting final.
-
-<!-- /METRICS -->
-
-## Pendientes para cumplir toda la definición de terminado
-
-- Completar la ficha estrella ZFORCE 1000 Sport con fuentes oficiales del modelo exacto; resolver los demás recursos faltantes del inventario.
-- Obtener perfil y colores de alta resolución de 800MT Touring.
-- Llevar LCP a menos de 2 s y JavaScript inicial a menos de 120 KB gzip; la tabla de mediciones indica lo alcanzado. La precarga se limita para evitar descargar páginas y formularios durante la primera visita.
-- Lighthouse de navegación no mide INP. Se informa TBT por separado; INP < 200 ms queda sin verificar y requiere una prueba de interacción/campo. No se afirma su cumplimiento a partir de TBT.
-- Probar Safari real y volver a medir en el despliegue final.
-- Next.js 16.3.8 registra `Internal: NoFallbackError` en la consola del servidor al solicitar rutas fuera del catálogo con `dynamicParams = false`. Las pruebas reciben HTTP 404, muestran la página propia y no detectan errores en el navegador. Revisar ese registro del framework antes del despliegue.
-
-Se omitieron deliberadamente checkout, cuentas, CMS, financiación, comparador, blog, analytics, cookies y mapas embebidos, de acuerdo con el alcance solicitado.
+La proteccion de Vercel sigue activa. El responsable debe abrir el preview con una sesion autorizada o preparar un enlace compartido para la presentacion. Las credenciales/cookies de las pruebas estan ignoradas y no forman parte de la entrega.

@@ -1,7 +1,7 @@
 {
-  "measuredAt": "2026-10-05T21:30:39.404Z",
+  "measuredAt": "2026-10-09T04:19:51.440Z",
   "viewport": "390 × 844, DPR 1",
-  "scriptGzipBytes": 145187,
+  "scriptGzipBytes": 145118,
   "scripts": [
     {
       "path": "/_next/static/chunks/19mx3mg6lkumu.js",
@@ -24,14 +24,14 @@
       "gzipBytes": 3851
     },
     {
-      "path": "/_next/static/chunks/3fntmmi971322.js",
-      "bytes": 14377,
-      "gzipBytes": 3661
+      "path": "/_next/static/chunks/1uiz0il93c4cj.js",
+      "bytes": 14478,
+      "gzipBytes": 3734
     },
     {
-      "path": "/_next/static/chunks/1lfixa4m1lz72.js",
-      "bytes": 30723,
-      "gzipBytes": 10782
+      "path": "/_next/static/chunks/0_k35cr9q0az_.js",
+      "bytes": 29645,
+      "gzipBytes": 10640
     },
     {
       "path": "/_next/static/chunks/3w98emuc87abv.js",
@@ -45,14 +45,19 @@
     }
   ],
   "hero": {
-    "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fmotos%2F800mt-touring%2Fhero.jpg&w=1280&q=65",
-    "naturalWidth": 1266,
-    "encodedBytes": 47402
+    "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fmotos%2F800mt-touring%2Fhero-mobile.jpg&w=480&q=65",
+    "naturalWidth": 389,
+    "encodedBytes": 23418
   },
   "fonts": [
     {
-      "path": "/_next/static/media/21ca8f3f56c22ca2-s.p.1cp9-4nby68jc.woff2",
-      "bytes": 90096
+      "path": "/_next/static/media/archivo_display-s.p.060yj1s6-r4oi.woff2",
+      "bytes": 12060
+    },
+    {
+      "path": "/_next/static/media/archivo_latin-s.0so6-p4t46wq1.woff2",
+      "bytes": 49856
     }
-  ]
+  ],
+  "environment": "http://127.0.0.1:3001"
 }

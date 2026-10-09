@@ -1,0 +1,101 @@
+{
+  "checkedAt": "2026-10-09T04:26:05.668Z",
+  "environment": "https://cfmoto-2-nixky91oi-alexis20.vercel.app",
+  "method": "Chrome Event Timing, threshold 16 ms, mobile viewport 390x844, no CPU/network throttling; laboratory journeys, not field INP",
+  "targetMs": 200,
+  "results": [
+    {
+      "journey": "featured-quote",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 24,
+          "processingMs": 0.19999999925494194,
+          "interactionId": 5601
+        },
+        {
+          "name": "pointerup",
+          "duration": 24,
+          "processingMs": 0.09999999776482582,
+          "interactionId": 5601
+        },
+        {
+          "name": "click",
+          "duration": 24,
+          "processingMs": 2.599999997764826,
+          "interactionId": 5601
+        }
+      ],
+      "maxEventDurationMs": 24,
+      "belowObserverThresholdWhenEmpty": false
+    },
+    {
+      "journey": "line-filter-model",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16,
+          "processingMs": 0.19999999925494194,
+          "interactionId": 1776
+        },
+        {
+          "name": "pointerup",
+          "duration": 16,
+          "processingMs": 0.10000000149011612,
+          "interactionId": 1776
+        },
+        {
+          "name": "click",
+          "duration": 16,
+          "processingMs": 2.599999997764826,
+          "interactionId": 1776
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16,
+          "processingMs": 0.20000000298023224,
+          "interactionId": 1783
+        },
+        {
+          "name": "pointerup",
+          "duration": 16,
+          "processingMs": 0,
+          "interactionId": 1783
+        },
+        {
+          "name": "click",
+          "duration": 16,
+          "processingMs": 1.199999999254942,
+          "interactionId": 1783
+        }
+      ],
+      "maxEventDurationMs": 16,
+      "belowObserverThresholdWhenEmpty": false
+    },
+    {
+      "journey": "model-test-ride",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16,
+          "processingMs": 0.30000000074505806,
+          "interactionId": 6022
+        },
+        {
+          "name": "pointerup",
+          "duration": 16,
+          "processingMs": 0,
+          "interactionId": 6022
+        },
+        {
+          "name": "click",
+          "duration": 16,
+          "processingMs": 1.199999999254942,
+          "interactionId": 6022
+        }
+      ],
+      "maxEventDurationMs": 16,
+      "belowObserverThresholdWhenEmpty": false
+    }
+  ]
+}

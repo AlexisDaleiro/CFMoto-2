@@ -1,0 +1,955 @@
+{
+  "checkedAt": "2026-10-09T03:51:54.197Z",
+  "models": [
+    {
+      "slug": "150nk",
+      "name": "150NK",
+      "line": "motos",
+      "origin": {
+        "version": "150NK",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 149.5,
+      "sources": [
+        "https://cfmotouruguay.com/150nk/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/150nk/perfil-oficial.jpg",
+          "width": 800,
+          "height": 578,
+          "bytes": 54047
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "250nk",
+      "name": "250NK",
+      "line": "motos",
+      "origin": {
+        "version": "250NK",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 249,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/motorcycles/naked/250nk.html"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/250nk/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 507584
+        },
+        {
+          "path": "/images/motos/250nk/hero.jpg",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 469272
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "300sr",
+      "name": "300SR",
+      "line": "motos",
+      "origin": {
+        "version": "300SR",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 298,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/motorcycles/sportracing/300sr.html"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/300sr/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 674635
+        },
+        {
+          "path": "/images/motos/300sr/hero.jpg",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 318976
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "300nk",
+      "name": "300NK",
+      "line": "motos",
+      "origin": {
+        "version": "300NK",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 292,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/motorcycles/naked/300nk.html"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/300nk/perfil.png",
+          "width": 1170,
+          "height": 760,
+          "bytes": 476128
+        },
+        {
+          "path": "/images/motos/300nk/hero.jpg",
+          "width": 2400,
+          "height": 1597,
+          "bytes": 465235
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "400nk",
+      "name": "400NK",
+      "line": "motos",
+      "origin": {
+        "version": "400NK",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 400,
+      "sources": [
+        "https://cfmotouruguay.com/400nk/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/400nk/perfil-oficial.jpg",
+          "width": 800,
+          "height": 582,
+          "bytes": 45025
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "400gt",
+      "name": "400GT",
+      "line": "motos",
+      "origin": {
+        "version": "400GT",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 400,
+      "sources": [
+        "https://cfmotouruguay.com/400gt/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/400gt/perfil-oficial.jpg",
+          "width": 800,
+          "height": 578,
+          "bytes": 65020
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "450sr",
+      "name": "450SR",
+      "line": "motos",
+      "origin": {
+        "version": "450SR",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 449.5,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/motorcycles/sportracing/450sr.html"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/450sr/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 584777
+        },
+        {
+          "path": "/images/motos/450sr/hero.jpg",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 294934
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "650mt",
+      "name": "650MT",
+      "line": "motos",
+      "origin": {
+        "version": "650MT",
+        "mercado": "Italia; año del modelo no informado"
+      },
+      "cc": 649,
+      "sources": [
+        "https://cfmotoitaly.it/wp-content/uploads/650MT-1.pdf",
+        "https://cfmotoitaly.it/650mt-promo/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/650mt/hero.jpg",
+          "width": 2400,
+          "height": 1597,
+          "bytes": 716717
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 2,
+      "needsYearConfirmation": true,
+      "needsHighResolution": false
+    },
+    {
+      "slug": "650nk",
+      "name": "650NK",
+      "line": "motos",
+      "origin": {
+        "version": "650NK",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 649.3,
+      "sources": [
+        "https://cfmotouruguay.com/650nk/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/650nk/perfil-oficial.jpg",
+          "width": 800,
+          "height": 578,
+          "bytes": 56358
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "650gt",
+      "name": "650GT",
+      "line": "motos",
+      "origin": {
+        "version": "650GT",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 649.3,
+      "sources": [
+        "https://cfmotouruguay.com/650gt/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/650gt/perfil-oficial.jpg",
+          "width": 800,
+          "height": 578,
+          "bytes": 57456
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "650tr-g",
+      "name": "650TR-G",
+      "line": "motos",
+      "origin": {
+        "version": "650TR-G",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 649.3,
+      "sources": [
+        "https://cfmotouruguay.com/650trg/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/650tr-g/perfil-oficial.jpg",
+          "width": 820,
+          "height": 530,
+          "bytes": 50004
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "700cl-x-heritage",
+      "name": "700CL-X Heritage",
+      "line": "motos",
+      "origin": {
+        "version": "700CL-X Heritage",
+        "mercado": "Italia; año del modelo no informado"
+      },
+      "cc": 693,
+      "sources": [
+        "https://cfmotoitaly.it/700clx/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/700cl-x-heritage/perfil.png",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 2794192
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 2,
+      "needsYearConfirmation": true,
+      "needsHighResolution": false
+    },
+    {
+      "slug": "700cl-x-sport",
+      "name": "700CL-X Sport",
+      "line": "motos",
+      "origin": {
+        "version": "700CL-X Sport",
+        "mercado": "Italia; año del modelo no informado"
+      },
+      "cc": 693,
+      "sources": [
+        "https://cfmotoitaly.it/700cl-x-sport/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/700cl-x-sport/perfil.png",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 2557151
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 2,
+      "needsYearConfirmation": true,
+      "needsHighResolution": false
+    },
+    {
+      "slug": "800mt-touring",
+      "name": "800MT Touring",
+      "line": "motos",
+      "origin": {
+        "version": "800MT Touring; ficha del folleto internacional",
+        "anio": 2021,
+        "mercado": "Global; fotografía de perfil de CFMOTO Italia"
+      },
+      "cc": 799,
+      "sources": [
+        "https://www.cfmoto.com/content/dam/cfmoto/site/global/product/motorcycle/mt----mult-touring/800mt-touring/documentation/2021_800MT%20brochure_International.pdf",
+        "https://cfmotoitaly.it/800-mt-touring/"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/800mt-touring/perfil-oficial.png",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 3327998
+        },
+        {
+          "path": "/images/motos/800mt-touring/hero-oficial.jpg",
+          "width": 2200,
+          "height": 828,
+          "bytes": 280311
+        },
+        {
+          "path": "/images/motos/800mt-touring/hero-mobile.jpg",
+          "width": 775,
+          "height": 1162,
+          "bytes": 189103
+        },
+        {
+          "path": "/images/motos/800mt-touring/galeria-01.jpg",
+          "width": 1211,
+          "height": 808,
+          "bytes": 197292
+        },
+        {
+          "path": "/images/motos/800mt-touring/galeria-02.jpg",
+          "width": 1157,
+          "height": 772,
+          "bytes": 205295
+        },
+        {
+          "path": "/images/motos/800mt-touring/galeria-03.jpg",
+          "width": 1020,
+          "height": 680,
+          "bytes": 92448
+        },
+        {
+          "path": "/images/motos/800mt-touring/galeria-04.jpg",
+          "width": 1421,
+          "height": 947,
+          "bytes": 107252
+        },
+        {
+          "path": "/images/motos/800mt-touring/galeria-05.jpg",
+          "width": 1738,
+          "height": 966,
+          "bytes": 237112
+        },
+        {
+          "path": "/images/motos/800mt-touring/feature-motor.jpg",
+          "width": 452,
+          "height": 678,
+          "bytes": 36334
+        },
+        {
+          "path": "/images/motos/800mt-touring/feature-ruta.jpg",
+          "width": 775,
+          "height": 1162,
+          "bytes": 189103
+        },
+        {
+          "path": "/images/motos/800mt-touring/feature-tablero.jpg",
+          "width": 1421,
+          "height": 947,
+          "bytes": 107252
+        }
+      ],
+      "keyFigures": 4,
+      "gallery": 5,
+      "features": 3,
+      "groups": 5,
+      "needsYearConfirmation": false,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "800mt-sport",
+      "name": "800MT Sport",
+      "line": "motos",
+      "origin": {
+        "version": "800MT Sport",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 799,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/motorcycles/mult-touring/800mt_sport.html"
+      ],
+      "images": [
+        {
+          "path": "/images/motos/800mt-sport/perfil.png",
+          "width": 1170,
+          "height": 760,
+          "bytes": 411245
+        },
+        {
+          "path": "/images/motos/800mt-sport/hero.jpg",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 397704
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "cforce-450s",
+      "name": "CFORCE 450S",
+      "line": "cuatriciclos",
+      "origin": {
+        "version": "CFORCE 450S",
+        "mercado": "Sudáfrica (cilindrada); fotografía publicada en Uruguay"
+      },
+      "cc": 400,
+      "sources": [
+        "https://cfmotouruguay.com/cforce-450s/",
+        "https://www.cfmoto.co.za/wp-content/uploads/2021/12/CFMOTO-Spec-Sheets-CFORCE-450S.pdf"
+      ],
+      "images": [
+        {
+          "path": "/images/cuatriciclos/cforce-450s/perfil-oficial.jpg",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 241863
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": false
+    },
+    {
+      "slug": "cforce-520l",
+      "name": "CFORCE 520L",
+      "line": "cuatriciclos",
+      "origin": {
+        "version": "CFORCE 520L",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 495,
+      "sources": [
+        "https://cfmotouruguay.com/cforce-520l/"
+      ],
+      "images": [
+        {
+          "path": "/images/cuatriciclos/cforce-520l/perfil-oficial.jpg",
+          "width": 800,
+          "height": 578,
+          "bytes": 59140
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "cforce-625",
+      "name": "CFORCE 625",
+      "line": "cuatriciclos",
+      "origin": {
+        "version": "CFORCE 625",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 580,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_625.html"
+      ],
+      "images": [
+        {
+          "path": "/images/cuatriciclos/cforce-625/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 460452
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-625/hero.jpg",
+          "width": 2400,
+          "height": 1597,
+          "bytes": 596337
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "cforce-625-touring",
+      "name": "CFORCE 625 Touring",
+      "line": "cuatriciclos",
+      "origin": {
+        "version": "CFORCE 625 Touring",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 580,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_625_touring.html"
+      ],
+      "images": [
+        {
+          "path": "/images/cuatriciclos/cforce-625-touring/perfil.png",
+          "width": 1140,
+          "height": 761,
+          "bytes": 518444
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-625-touring/hero.jpg",
+          "width": 785,
+          "height": 400,
+          "bytes": 56828
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "cforce-850xc",
+      "name": "CFORCE 850XC",
+      "line": "cuatriciclos",
+      "origin": {
+        "version": "CFORCE 850XC",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 800,
+      "sources": [
+        "https://cfmotouruguay.com/cforce-850-xc/"
+      ],
+      "images": [
+        {
+          "path": "/images/cuatriciclos/cforce-850xc/perfil-oficial.jpg",
+          "width": 800,
+          "height": 578,
+          "bytes": 72264
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "cforce-1000",
+      "name": "CFORCE 1000",
+      "line": "cuatriciclos",
+      "origin": {
+        "version": "CFORCE 1000",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 963,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_1000.html"
+      ],
+      "images": [
+        {
+          "path": "/images/cuatriciclos/cforce-1000/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 818525
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/hero.jpg",
+          "width": 2400,
+          "height": 1602,
+          "bytes": 737900
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/galeria-01.jpg",
+          "width": 2400,
+          "height": 1602,
+          "bytes": 737900
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/galeria-02.jpg",
+          "width": 2400,
+          "height": 1602,
+          "bytes": 652738
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/galeria-03.jpg",
+          "width": 2400,
+          "height": 1602,
+          "bytes": 793492
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/galeria-04.jpg",
+          "width": 2400,
+          "height": 1602,
+          "bytes": 916504
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/feature-01.jpg",
+          "width": 1560,
+          "height": 640,
+          "bytes": 94554
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/color-true-timber-camo.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 818525
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/color-royal-blue.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 743593
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/color-lava-orange.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 750138
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000/color-ghost-grey.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 707251
+        }
+      ],
+      "keyFigures": 4,
+      "gallery": 4,
+      "features": 3,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "cforce-1000-overland",
+      "name": "CFORCE 1000 Overland",
+      "line": "cuatriciclos",
+      "origin": {
+        "version": "CFORCE 1000 Overland",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 963,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_1000_overland.html"
+      ],
+      "images": [
+        {
+          "path": "/images/cuatriciclos/cforce-1000-overland/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 479960
+        },
+        {
+          "path": "/images/cuatriciclos/cforce-1000-overland/hero.jpg",
+          "width": 2048,
+          "height": 1365,
+          "bytes": 689601
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "zforce-550ex",
+      "name": "ZFORCE 550EX",
+      "line": "utv",
+      "origin": {
+        "version": "ZFORCE 550EX",
+        "mercado": "Uruguay; año de la versión pendiente de confirmación"
+      },
+      "cc": 495,
+      "sources": [
+        "https://cfmotouruguay.com/zforce-550-ex/"
+      ],
+      "images": [
+        {
+          "path": "/images/utv/zforce-550ex/perfil-oficial.jpg",
+          "width": 800,
+          "height": 578,
+          "bytes": 60179
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 1,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "uforce-600",
+      "name": "UFORCE 600",
+      "line": "utv",
+      "origin": {
+        "version": "UFORCE 600",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 580,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/sxs/utility/uforce_600.html"
+      ],
+      "images": [
+        {
+          "path": "/images/utv/uforce-600/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 382459
+        },
+        {
+          "path": "/images/utv/uforce-600/hero.jpg",
+          "width": 2400,
+          "height": 1602,
+          "bytes": 925048
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "uforce-1000",
+      "name": "UFORCE 1000",
+      "line": "utv",
+      "origin": {
+        "version": "UFORCE 1000",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 963,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/sxs/utility/uforce_1000.html"
+      ],
+      "images": [
+        {
+          "path": "/images/utv/uforce-1000/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 544029
+        },
+        {
+          "path": "/images/utv/uforce-1000/hero.jpg",
+          "width": 2400,
+          "height": 1600,
+          "bytes": 912155
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "uforce-1000-xl",
+      "name": "UFORCE 1000 XL",
+      "line": "utv",
+      "origin": {
+        "version": "UFORCE 1000 XL",
+        "mercado": "Global; documentación consultada en la fase 1"
+      },
+      "cc": 963,
+      "sources": [
+        "https://www.cfmoto.com/content/cfmoto/global/sxs/utility/uforce_1000_xl.html"
+      ],
+      "images": [
+        {
+          "path": "/images/utv/uforce-1000-xl/perfil.png",
+          "width": 1140,
+          "height": 760,
+          "bytes": 468108
+        },
+        {
+          "path": "/images/utv/uforce-1000-xl/hero.jpg",
+          "width": 2400,
+          "height": 1602,
+          "bytes": 984319
+        }
+      ],
+      "keyFigures": 0,
+      "gallery": 0,
+      "features": 0,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    },
+    {
+      "slug": "zforce-1000-sport",
+      "name": "ZFORCE 1000 Sport",
+      "line": "utv",
+      "origin": {
+        "version": "ZFORCE 1000 Sport; no Sport R",
+        "mercado": "Uruguay (especificaciones); Argentina (fotografías MY2021)"
+      },
+      "cc": 963,
+      "sources": [
+        "https://cfmotouruguay.com/zforce-1000-sport/",
+        "https://cfmoto.com.ar/"
+      ],
+      "images": [
+        {
+          "path": "/images/utv/zforce-1000-sport/perfil.png",
+          "width": 1140,
+          "height": 867,
+          "bytes": 473537
+        },
+        {
+          "path": "/images/utv/zforce-1000-sport/hero.jpg",
+          "width": 900,
+          "height": 600,
+          "bytes": 86757
+        },
+        {
+          "path": "/images/utv/zforce-1000-sport/galeria-01.jpg",
+          "width": 900,
+          "height": 600,
+          "bytes": 121385
+        },
+        {
+          "path": "/images/utv/zforce-1000-sport/galeria-02.jpg",
+          "width": 900,
+          "height": 600,
+          "bytes": 138982
+        },
+        {
+          "path": "/images/utv/zforce-1000-sport/galeria-03.jpg",
+          "width": 900,
+          "height": 600,
+          "bytes": 71155
+        },
+        {
+          "path": "/images/utv/zforce-1000-sport/galeria-04.jpg",
+          "width": 900,
+          "height": 600,
+          "bytes": 127443
+        }
+      ],
+      "keyFigures": 4,
+      "gallery": 4,
+      "features": 3,
+      "groups": 3,
+      "needsYearConfirmation": true,
+      "needsHighResolution": true
+    }
+  ]
+}

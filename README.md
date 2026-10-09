@@ -1,80 +1,90 @@
-# CFMOTO Uruguay — demo navegable
+# CFMOTO Uruguay: demo comercial
 
-Next.js 16.3.8 (App Router), React 19.3, TypeScript estricto, Tailwind CSS 4 y Archivo variable. Sin bibliotecas de UI, animación, iconos ni scripts externos.
+Next.js 16.3.8, React, TypeScript y Tailwind CSS 4. Conserva 27 modelos, 32 paginas publicas y generacion estatica. Cotizacion y WhatsApp son simulaciones sin persistencia. La fase 2 tiene criterios pendientes; ver ENTREGA-FASE-2.md.
 
 ## Ejecutar
 
-Requiere Node.js 20.9 o posterior y npm. Probado con Node 24.19.
+Node.js >= 20.9 y npm; probado con Node 24.19. Chrome instalado para las pruebas.
 
 ```sh
 npm ci
 npm run dev
 ```
 
-Abrir http://localhost:3000. Para comprobar el resultado de producción:
+Abrir [demo local](http://localhost:3000). Para produccion local:
 
-```sh
+```powershell
+$env:SITE_INDEXABLE='true'
+$env:NEXT_PUBLIC_SITE_URL='http://localhost:3001'
 npm run build
-npm run start
+npm run start -- --port 3001
 ```
 
-La primera compilación necesita acceso a Google Fonts. La fuente queda alojada localmente por `next/font/google`; los visitantes no hacen pedidos a Google.
+Archivo se sirve localmente con licencia OFL; la compilacion no necesita Google Fonts. No usar output: export: las paginas son estaticas, pero la validacion utiliza una server action y las imagenes el optimizador de Next.
 
-## Verificar
+## Verificacion Reproducible
 
-```sh
+En otra terminal, con el servidor iniciado:
+
+```powershell
+$env:TEST_URL='http://127.0.0.1:3001'
 npm run lint
 npm run typecheck
-```
-
-Con `npm run start` abierto en otra terminal y Chrome instalado:
-
-```sh
 npm run verify
-npm run audit:mobile
+node scripts/verify-browsers.mjs
+node scripts/verify-interactions.mjs
+node scripts/verify-product-controls.mjs
+node scripts/diagnose-404.mjs
 node scripts/measure-budget.mjs
+npm run audit:mobile
 node scripts/report-metrics.mjs
 ```
 
-`verify` recorre las 32 páginas del sitemap, comprueba 45 combinaciones de página/ancho (360, 390, 768, 1280, 1920), imágenes, H1, 404, filtros, historial, menú, colores, barra móvil y formulario. Guarda evidencia en `artifacts/`.
-
-Para verificar motores adicionales:
+Lighthouse ejecuta ocho rutas, tres veces cada una, con la misma configuracion movil. No ejecutar otras pruebas de navegador o compilaciones simultaneamente. Guarda cada HTML/JSON, medianas y criterios individuales. verify comprueba cinco anchos, 32 rutas, recursos, DPR 1/2, filtros e historial, formulario y dialogo de WhatsApp. Las capturas no certifican la nitidez de originales insuficientes.
 
 ```sh
 npx playwright install firefox webkit
-node scripts/verify-browsers.mjs
 ```
 
-WebKit permite comprobar el motor usado por Safari; no reemplaza una prueba en Safari sobre macOS o iOS. Los reportes de Lighthouse en HTML/JSON están en `artifacts/lighthouse/`. El envío del formulario es simulado y no persiste datos.
+WebKit no reemplaza Safari real en iPhone. Las interacciones son Event Timing de laboratorio sin throttling, no INP de campo. TEST_URL unifica los scripts para local y preview. TEST_REPORT_DIR permite conservar auditorias separadas; TEST_BUDGET_FILE, TEST_VERIFICATION_FILE, TEST_BROWSER_FILE, TEST_INTERACTIONS_FILE, TEST_PRODUCT_FILE y TEST_404_FILE separan sus otras evidencias.
 
-La demo todavía no cumple toda la definición de terminado: faltan recursos oficiales de varios modelos y los presupuestos de LCP y JavaScript; la última medición está en `DEMO-NOTES.md`.
+## Preview de Vercel
 
-## Desplegar en Vercel
+Proyecto existente: [cfmoto-2](https://vercel.com/alexis20/cfmoto-2). La URL fijada esta en ENTREGA-FASE-2.md. Produccion y despliegues anteriores permanecen intactos.
 
-1. Subir este repositorio a GitHub e importarlo en Vercel.
-2. Seleccionar el preset Next.js, instalar con `npm ci` y compilar con `npm run build`.
-3. Configurar `NEXT_PUBLIC_SITE_URL` con el dominio de la demo. Se usa en canonical, Open Graph, JSON-LD y sitemap; requiere recompilar si cambia.
-4. Desplegar y volver a medir en el dominio real. No se necesita base de datos, API key ni servicio de email.
+```sh
+npx vercel deploy --yes --scope alexis20 --build-env SITE_INDEXABLE=false
+```
 
-No usar `output: "export"`: las páginas se generan estáticas, pero el formulario usa una server action y las imágenes el optimizador de Next. Vercel soporta ambos. Esta entrega no realiza ningún despliegue.
+No usar --prod. Preview utiliza VERCEL_URL como base si NEXT_PUBLIC_SITE_URL no esta definido: canonical, Open Graph y sitemap apuntan a esa URL. SITE_INDEXABLE=false genera noindex, nofollow tanto en metadata como en X-Robots-Tag; robots permite rastrear para leer la exclusion. No enviar el sitemap a buscadores.
 
-## Contenido y arquitectura
+La proteccion de Vercel se conserva. Para verificarla con una sesion autorizada:
 
-- `src/content/modelos.ts`: 27 modelos, 15 motos, 7 cuatriciclos y 5 UTV. Slugs estables, precios exclusivamente ilustrativos y fuentes por modelo.
-- `src/content/types.ts`: contrato tipado; `segmentoCc` conserva la agrupación comercial del prompt. La cilindrada real se muestra únicamente cuando está verificada.
-- `src/lib/catalogo.ts`: único acceso a datos. Reemplazar este adaptador para integrar un backend futuro.
-- `src/content/sitio.ts`: contacto, horarios, 19 departamentos y 10 talleres.
-- `src/app/cotizar/actions.ts`: validación de servidor y punto de conexión para CRM/email.
-- `public/images/`: recursos oficiales locales, sin hotlinking.
+```powershell
+$env:TEST_URL='https://URL-DEL-PREVIEW.vercel.app'
+npx vercel curl / --deployment $env:TEST_URL --scope alexis20 -- --location --cookie-jar artifacts/sources/vercel-cookies.txt --header x-vercel-set-bypass-cookie:true --silent --output artifacts/sources/preview-home.html
+node scripts/verify-preview.mjs
+$env:TEST_REPORT_DIR='artifacts/lighthouse-preview'
+$env:TEST_BUDGET_FILE='artifacts/budget-preview.json'
+node scripts/measure-budget.mjs
+npm run audit:mobile
+node scripts/report-metrics.mjs
+```
 
-Ver `IMAGES.md` para origen de archivos y `DEMO-NOTES.md` para simulaciones, mediciones y pendientes. Las herramientas de investigación y extracción de `scripts/` no se ejecutan durante la compilación ni el despliegue; las fuentes descargadas quedan ignoradas en Git.
+La cookie de prueba queda en una carpeta ignorada y se filtra por hostname. No compartirla ni incorporarla al repositorio. Para presentar al cliente usar una sesion autorizada o un enlace compartido de Vercel, sin desactivar la proteccion.
 
-## APIs verificadas
+## Contenido y Arquitectura
 
-Se verificaron las APIs contra la documentación oficial de Next.js 16.3.8 antes de usarlas: params asíncronos, `generateStaticParams`, `dynamicParams = false`, metadata, server actions, `next/image`, `next/font` y la integración de `ViewTransition` de React. App Router activa las transiciones de navegación sin una librería adicional. Se desactivan animaciones con `prefers-reduced-motion`, y se conserva navegación normal cuando falta la API del navegador.
+- src/content/modelos.ts: catalogo tipado, precios ilustrativos, fuentes, origen de version/mercado/ano y pies de galeria.
+- src/lib/catalogo.ts: adaptador unico. segmentoCc agrupa comercialmente; cilindradaCc es el valor documentado.
+- src/components/model-image.tsx: getImageProps en servidor, imagenes responsivas y art direction del hero.
+- src/components/whatsapp-demo.tsx: dialogo cargado al abrir, mensajes sin datos personales; ningun CTA abre WhatsApp real.
+- src/lib/whatsapp.ts: generacion de mensaje independiente del constructor de enlace externo, no utilizado por la demo.
+- src/app/cotizar/actions.ts: validacion del servidor sin registrar ni persistir consultas.
+- src/lib/environment.ts: politica de indexacion de demo; precios ficticios no generan Offer en JSON-LD.
 
-- https://nextjs.org/docs/app/guides/view-transitions
-- https://nextjs.org/docs/app/api-reference/functions/generate-static-params
-- https://nextjs.org/docs/app/api-reference/components/image
-- https://nextjs.org/docs/app/api-reference/components/font
-- https://react.dev/reference/react/ViewTransition
+Inventario: CATALOGO.md e IMAGES.md. Materiales pendientes: SOLICITUD-MATERIALES.md. Guion: PRESENTACION.md. Evidencia: artifacts/, incluida la referencia anterior en artifacts/phase1/. Los originales descargados y credenciales se excluyen de Git y del despliegue.
+
+## Referencias
+
+[Checklist Next.js](https://nextjs.org/docs/app/guides/production-checklist), [imagenes](https://nextjs.org/docs/app/api-reference/components/image), [fuentes](https://nextjs.org/docs/app/api-reference/components/font), [ViewTransition](https://react.dev/reference/react/ViewTransition), [Web Vitals](https://web.dev/articles/vitals), [entornos Vercel](https://vercel.com/docs/deployments/environments).

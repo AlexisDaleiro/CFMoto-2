@@ -1,0 +1,1457 @@
+[
+  {
+    "path": "/",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:16:20.204Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 851.32195,
+      "largest-contentful-paint": 2859.1159,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 43.5,
+      "speed-index": 851.32195,
+      "total-byte-weight": 348986
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:16:05.504Z",
+        "categories": {
+          "performance": 93,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 839.631,
+          "largest-contentful-paint": 2857.2619999999997,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 172.4999999999999,
+          "speed-index": 839.631,
+          "total-byte-weight": 348992
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.82,
+            "displayValue": "2.9 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.67,
+            "displayValue": "200 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 90 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:16:13.016Z",
+        "categories": {
+          "performance": 95,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 851.32195,
+          "largest-contentful-paint": 2860.6439,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 34.5,
+          "speed-index": 851.32195,
+          "total-byte-weight": 348986
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.81,
+            "displayValue": "2.9 s"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 80 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:16:20.204Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 856.55795,
+          "largest-contentful-paint": 2859.1159,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 43.5,
+          "speed-index": 856.55795,
+          "total-byte-weight": 348986
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.82,
+            "displayValue": "2.9 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.67,
+            "displayValue": "200 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 80 ms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/motos",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:16:41.789Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 757.5153,
+      "largest-contentful-paint": 2707.5153,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 37,
+      "speed-index": 757.5153,
+      "total-byte-weight": 348113
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:16:27.318Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 809.0630999999998,
+          "largest-contentful-paint": 2766.65775,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 31.5,
+          "speed-index": 809.0630999999998,
+          "total-byte-weight": 348113
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.84,
+            "displayValue": "2.8 s"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0.5,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 100 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:16:34.745Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 757.5153,
+          "largest-contentful-paint": 2707.5153,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 49.74234999999999,
+          "speed-index": 757.5153,
+          "total-byte-weight": 348113
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.85,
+            "displayValue": "2.7 s"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 140 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:16:41.789Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 756.2771,
+          "largest-contentful-paint": 2706.2771,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 37,
+          "speed-index": 756.2771,
+          "total-byte-weight": 348113
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.85,
+            "displayValue": "2.7 s"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 140 ms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/cuatriciclos",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:17:02.768Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 819.2469,
+      "largest-contentful-paint": 2706.4938,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 39,
+      "speed-index": 819.2469,
+      "total-byte-weight": 324659
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:16:48.778Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 796.3425,
+          "largest-contentful-paint": 2710.6849999999995,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 44,
+          "speed-index": 796.3425,
+          "total-byte-weight": 324667
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.85,
+            "displayValue": "2.7 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.87,
+            "displayValue": "140 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 140 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:16:55.922Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 822.12465,
+          "largest-contentful-paint": 2706.2492999999995,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 39,
+          "speed-index": 822.12465,
+          "total-byte-weight": 324659
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.85,
+            "displayValue": "2.7 s"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 100 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:17:02.768Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 819.2469,
+          "largest-contentful-paint": 2706.4938,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 39,
+          "speed-index": 819.2469,
+          "total-byte-weight": 324659
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.85,
+            "displayValue": "2.7 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.76,
+            "displayValue": "170 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 100 ms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/utv",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:17:23.671Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 792.6853,
+      "largest-contentful-paint": 2631.2851,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 80.5,
+      "speed-index": 792.6853,
+      "total-byte-weight": 316380
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:17:09.693Z",
+        "categories": {
+          "performance": 97,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 821.8286,
+          "largest-contentful-paint": 2634.6572000000006,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 59,
+          "speed-index": 821.8286,
+          "total-byte-weight": 316388
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.87,
+            "displayValue": "2.6 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.74,
+            "displayValue": "180 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 100 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:17:16.710Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 792.6853,
+          "largest-contentful-paint": 2630.3705999999997,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 80.5,
+          "speed-index": 792.6853,
+          "total-byte-weight": 316380
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.87,
+            "displayValue": "2.6 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.83,
+            "displayValue": "150 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 100 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:17:23.671Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 791.14255,
+          "largest-contentful-paint": 2631.2851,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 127.5,
+          "speed-index": 791.14255,
+          "total-byte-weight": 316380
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.87,
+            "displayValue": "2.6 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.69,
+            "displayValue": "190 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 26 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 100 ms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/motos/800mt-touring",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:17:45.016Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 984.71785,
+      "largest-contentful-paint": 3081.4214999999995,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 46,
+      "speed-index": 984.71785,
+      "total-byte-weight": 373480
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:17:30.723Z",
+        "categories": {
+          "performance": 94,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 984.71785,
+          "largest-contentful-paint": 3082.4357,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 46,
+          "speed-index": 984.71785,
+          "total-byte-weight": 373488
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.76,
+            "displayValue": "3.1 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.86,
+            "displayValue": "140 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "image-delivery-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 16 KiB"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 80 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:17:37.676Z",
+        "categories": {
+          "performance": 94,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 1024.21075,
+          "largest-contentful-paint": 3081.4214999999995,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 47,
+          "speed-index": 1024.21075,
+          "total-byte-weight": 373480
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.76,
+            "displayValue": "3.1 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.86,
+            "displayValue": "140 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "image-delivery-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 16 KiB"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 50 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:17:45.016Z",
+        "categories": {
+          "performance": 95,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 977.04825,
+          "largest-contentful-paint": 3010.0965000000006,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 42.5,
+          "speed-index": 977.04825,
+          "total-byte-weight": 373480
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.78,
+            "displayValue": "3.0 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.76,
+            "displayValue": "170 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "image-delivery-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 16 KiB"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 90 ms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/cuatriciclos/cforce-1000",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:18:06.131Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 975.05895,
+      "largest-contentful-paint": 3158.1178999999997,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 55.500000000000114,
+      "speed-index": 975.05895,
+      "total-byte-weight": 399831
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:17:51.963Z",
+        "categories": {
+          "performance": 94,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 977.4376499999998,
+          "largest-contentful-paint": 3015.8752999999997,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 52.5,
+          "speed-index": 977.4376499999998,
+          "total-byte-weight": 399848
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.77,
+            "displayValue": "3.0 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.82,
+            "displayValue": "160 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 90 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:17:59.159Z",
+        "categories": {
+          "performance": 91,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 975.05895,
+          "largest-contentful-paint": 3158.1178999999997,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 161.5000000000001,
+          "speed-index": 975.05895,
+          "total-byte-weight": 399831
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.74,
+            "displayValue": "3.2 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.6,
+            "displayValue": "220 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 80 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:18:06.131Z",
+        "categories": {
+          "performance": 94,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 970.30425,
+          "largest-contentful-paint": 3158.6084999999994,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 55.500000000000114,
+          "speed-index": 970.30425,
+          "total-byte-weight": 399831
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.74,
+            "displayValue": "3.2 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.79,
+            "displayValue": "170 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 80 ms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/utv/zforce-1000-sport",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:18:26.433Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 778.1679,
+      "largest-contentful-paint": 2556.3358,
+      "cumulative-layout-shift": 0,
+      "total-blocking-time": 120,
+      "speed-index": 778.1679,
+      "total-byte-weight": 289726
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:18:13.182Z",
+        "categories": {
+          "performance": 97,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 756.2792,
+          "largest-contentful-paint": 2556.2792,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 31.5,
+          "speed-index": 756.2792,
+          "total-byte-weight": 289726
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.88,
+            "displayValue": "2.6 s"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 140 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:18:19.761Z",
+        "categories": {
+          "performance": 96,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 778.1679,
+          "largest-contentful-paint": 2556.3358,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 120,
+          "speed-index": 778.1679,
+          "total-byte-weight": 289726
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.88,
+            "displayValue": "2.6 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.78,
+            "displayValue": "170 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 110 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:18:26.433Z",
+        "categories": {
+          "performance": 95,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 813.48615,
+          "largest-contentful-paint": 2556.9723000000004,
+          "cumulative-layout-shift": 0,
+          "total-blocking-time": 153,
+          "speed-index": 813.48615,
+          "total-byte-weight": 289726
+        },
+        "failed": [
+          {
+            "id": "largest-contentful-paint",
+            "score": 0.88,
+            "displayValue": "2.6 s"
+          },
+          {
+            "id": "max-potential-fid",
+            "score": 0.76,
+            "displayValue": "170 ms"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 53 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 110 ms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/cotizar",
+    "base": "http://127.0.0.1:3001",
+    "fetchTime": "2026-10-09T03:18:45.819Z",
+    "method": "median of 3 runs per metric; all runs retained",
+    "categories": {
+      "performance": 82,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 756.2923000000001,
+      "largest-contentful-paint": 2480.3907,
+      "cumulative-layout-shift": 0.2805021868461383,
+      "total-blocking-time": 138.30465000000004,
+      "speed-index": 756.2923000000001,
+      "total-byte-weight": 264639
+    },
+    "runs": [
+      {
+        "fetchTime": "2026-10-09T03:18:33.000Z",
+        "categories": {
+          "performance": 82,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 756.2923000000001,
+          "largest-contentful-paint": 2481.2923,
+          "cumulative-layout-shift": 0.2805021868461383,
+          "total-blocking-time": 144.85384999999997,
+          "speed-index": 756.2923000000001,
+          "total-byte-weight": 264639
+        },
+        "failed": [
+          {
+            "id": "max-potential-fid",
+            "score": 0.74,
+            "displayValue": "180 ms"
+          },
+          {
+            "id": "cumulative-layout-shift",
+            "score": 0.43,
+            "displayValue": "0.281"
+          },
+          {
+            "id": "layout-shifts",
+            "score": 0,
+            "displayValue": "1 layout shift found"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 52 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "cls-culprits-insight",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 120 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:18:39.329Z",
+        "categories": {
+          "performance": 82,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 755.3906999999999,
+          "largest-contentful-paint": 2480.3907,
+          "cumulative-layout-shift": 0.2805021868461383,
+          "total-blocking-time": 138.30465000000004,
+          "speed-index": 755.3906999999999,
+          "total-byte-weight": 264639
+        },
+        "failed": [
+          {
+            "id": "max-potential-fid",
+            "score": 0.71,
+            "displayValue": "190 ms"
+          },
+          {
+            "id": "cumulative-layout-shift",
+            "score": 0.43,
+            "displayValue": "0.281"
+          },
+          {
+            "id": "layout-shifts",
+            "score": 0,
+            "displayValue": "1 layout shift found"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 52 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "cls-culprits-insight",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 120 ms"
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-10-09T03:18:45.819Z",
+        "categories": {
+          "performance": 83,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "metrics": {
+          "first-contentful-paint": 770.6091,
+          "largest-contentful-paint": 2480.2182,
+          "cumulative-layout-shift": 0.2805021868461383,
+          "total-blocking-time": 35,
+          "speed-index": 770.6091,
+          "total-byte-weight": 264639
+        },
+        "failed": [
+          {
+            "id": "cumulative-layout-shift",
+            "score": 0.43,
+            "displayValue": "0.281"
+          },
+          {
+            "id": "layout-shifts",
+            "score": 0,
+            "displayValue": "1 layout shift found"
+          },
+          {
+            "id": "unused-javascript",
+            "score": 0,
+            "displayValue": "Est savings of 52 KiB"
+          },
+          {
+            "id": "bf-cache",
+            "score": 0,
+            "displayValue": "2 failure reasons"
+          },
+          {
+            "id": "cls-culprits-insight",
+            "score": 0
+          },
+          {
+            "id": "legacy-javascript-insight",
+            "score": 0.5,
+            "displayValue": "Est savings of 13 KiB"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "score": 0
+          },
+          {
+            "id": "render-blocking-insight",
+            "score": 0,
+            "displayValue": "Est savings of 120 ms"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -10,7 +10,7 @@ export function breadcrumbJson(items: { nombre: string; href: string }[]) {
   return { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: items.map((item, index) => ({ "@type": "ListItem", position: index + 1, name: item.nombre, item: new URL(item.href, getSitio().url).toString() })) };
 }
 export function productJson(modelo: Modelo) {
-  return { "@context": "https://schema.org", "@type": "Product", name: `CFMOTO ${modelo.nombre}`, brand: { "@type": "Brand", name: "CFMOTO" }, description: `${modelo.bajada} Precio de referencia de demo; confirmar cotización.`, sku: modelo.slug, image: [modelo.imagenes.hero, modelo.imagenes.perfil].filter(Boolean).map((src) => new URL(src, getSitio().url).toString()), ...(modelo.precioDesdeUsd ? { offers: { "@type": "Offer", priceCurrency: "USD", price: modelo.precioDesdeUsd, url: new URL(`/${modelo.linea}/${modelo.slug}`, getSitio().url).toString(), seller: { "@type": "Organization", name: getSitio().nombre } } } : {}) };
+  return { "@context": "https://schema.org", "@type": "Product", name: `CFMOTO ${modelo.nombre}`, brand: { "@type": "Brand", name: "CFMOTO" }, description: modelo.bajada, sku: modelo.slug, image: [...new Set([modelo.imagenes.hero, modelo.imagenes.perfil].filter(Boolean))].map((src) => new URL(src, getSitio().url).toString()) };
 }
 export function dealerJson() {
   const s = getSitio();

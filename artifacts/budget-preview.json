@@ -1,0 +1,63 @@
+{
+  "measuredAt": "2026-10-09T04:23:35.048Z",
+  "viewport": "390 × 844, DPR 1",
+  "scriptGzipBytes": 145274,
+  "scripts": [
+    {
+      "path": "/_next/static/immutable/chunks/28fkf9f9btak4.js",
+      "bytes": 28907,
+      "gzipBytes": 7614
+    },
+    {
+      "path": "/_next/static/immutable/chunks/3sr_v5zx9_del.js",
+      "bytes": 229229,
+      "gzipBytes": 71721
+    },
+    {
+      "path": "/_next/static/immutable/chunks/14hixo8lqikjs.js",
+      "bytes": 165976,
+      "gzipBytes": 45184
+    },
+    {
+      "path": "/_next/static/immutable/chunks/turbopack-0g61l_0346b1v.js",
+      "bytes": 9761,
+      "gzipBytes": 3861
+    },
+    {
+      "path": "/_next/static/immutable/chunks/1s37g38b628hc.js",
+      "bytes": 14488,
+      "gzipBytes": 3736
+    },
+    {
+      "path": "/_next/static/immutable/chunks/0d86wf8q9_s_f.js",
+      "bytes": 29645,
+      "gzipBytes": 10640
+    },
+    {
+      "path": "/_next/static/immutable/chunks/1wc82ffzhp_un.js",
+      "bytes": 811,
+      "gzipBytes": 489
+    },
+    {
+      "path": "/_next/static/immutable/chunks/17tuxysuvqwd2.js",
+      "bytes": 5598,
+      "gzipBytes": 2029
+    }
+  ],
+  "hero": {
+    "src": "https://cfmoto-2-nixky91oi-alexis20.vercel.app/_next/image?url=%2Fimages%2Fmotos%2F800mt-touring%2Fhero-mobile.jpg&w=480&q=65",
+    "naturalWidth": 389,
+    "encodedBytes": 23418
+  },
+  "fonts": [
+    {
+      "path": "/_next/static/immutable/media/archivo_display-s.p.04bqnbgf9vdhd.woff2",
+      "bytes": 12060
+    },
+    {
+      "path": "/_next/static/immutable/media/archivo_latin-s.2tiq6e6tel5xl.woff2",
+      "bytes": 49856
+    }
+  ],
+  "environment": "https://cfmoto-2-nixky91oi-alexis20.vercel.app"
+}

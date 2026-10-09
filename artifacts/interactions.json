@@ -1,0 +1,101 @@
+{
+  "checkedAt": "2026-10-09T04:19:47.496Z",
+  "environment": "http://127.0.0.1:3001",
+  "method": "Chrome Event Timing, threshold 16 ms, mobile viewport 390x844, no CPU/network throttling; laboratory journeys, not field INP",
+  "targetMs": 200,
+  "results": [
+    {
+      "journey": "featured-quote",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 32,
+          "processingMs": 0.30000000074505806,
+          "interactionId": 333
+        },
+        {
+          "name": "pointerup",
+          "duration": 32,
+          "processingMs": 0.10000000149011612,
+          "interactionId": 333
+        },
+        {
+          "name": "click",
+          "duration": 32,
+          "processingMs": 2.5,
+          "interactionId": 333
+        }
+      ],
+      "maxEventDurationMs": 32,
+      "belowObserverThresholdWhenEmpty": false
+    },
+    {
+      "journey": "line-filter-model",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16,
+          "processingMs": 0.10000000149011612,
+          "interactionId": 1060
+        },
+        {
+          "name": "pointerup",
+          "duration": 16,
+          "processingMs": 0,
+          "interactionId": 1060
+        },
+        {
+          "name": "click",
+          "duration": 16,
+          "processingMs": 2,
+          "interactionId": 1060
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16,
+          "processingMs": 0.20000000298023224,
+          "interactionId": 1067
+        },
+        {
+          "name": "pointerup",
+          "duration": 16,
+          "processingMs": 0.10000000149011612,
+          "interactionId": 1067
+        },
+        {
+          "name": "click",
+          "duration": 16,
+          "processingMs": 0.3999999985098839,
+          "interactionId": 1067
+        }
+      ],
+      "maxEventDurationMs": 16,
+      "belowObserverThresholdWhenEmpty": false
+    },
+    {
+      "journey": "model-test-ride",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16,
+          "processingMs": 0.30000000074505806,
+          "interactionId": 8534
+        },
+        {
+          "name": "pointerup",
+          "duration": 16,
+          "processingMs": 0.10000000149011612,
+          "interactionId": 8534
+        },
+        {
+          "name": "click",
+          "duration": 16,
+          "processingMs": 0.6999999992549419,
+          "interactionId": 8534
+        }
+      ],
+      "maxEventDurationMs": 16,
+      "belowObserverThresholdWhenEmpty": false
+    }
+  ]
+}

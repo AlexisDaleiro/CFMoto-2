@@ -1,5 +1,6 @@
 {
-  "checkedAt": "2026-10-05T21:31:28.611Z",
+  "checkedAt": "2026-10-09T04:18:12.846Z",
+  "environment": "http://127.0.0.1:3001",
   "results": [
     {
       "route": "/",
@@ -318,5 +319,5 @@
     }
   ],
   "errors": [],
-  "functional": "menu, filters, history, fixed CTA, colors, quote success, native validation, desktop dropdown, sitemap, all routes"
+  "functional": "menu, filters, history, fixed CTA, colors, quote success, native and server validation, retained fields, blocked double submission, WhatsApp copy/error/Escape/focus/privacy, invalid parameters, empty filters, JSON-LD without Offer, DPR 1/2, desktop dropdown, sitemap, all routes"
 }

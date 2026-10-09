@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-10-09T03:34:23.956Z",
+  "records": [
+    {
+      "slug": "150nk",
+      "local": "public/images/motos/150nk/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/03/150NK-1.jpeg",
+      "width": 800,
+      "height": 578,
+      "bytes": 54047,
+      "page": "https://cfmotouruguay.com/150nk/"
+    },
+    {
+      "slug": "400nk",
+      "local": "public/images/motos/400nk/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/05/20200209_400NK-左前45-星光白-拷贝.jpg",
+      "width": 800,
+      "height": 582,
+      "bytes": 45025,
+      "page": "https://cfmotouruguay.com/400nk/"
+    },
+    {
+      "slug": "400gt",
+      "local": "public/images/motos/400gt/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/03/400GT-1.jpeg",
+      "width": 800,
+      "height": 578,
+      "bytes": 65020,
+      "page": "https://cfmotouruguay.com/400gt/"
+    },
+    {
+      "slug": "650nk",
+      "local": "public/images/motos/650nk/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/03/650NK-1.jpeg",
+      "width": 800,
+      "height": 578,
+      "bytes": 56358,
+      "page": "https://cfmotouruguay.com/650nk/"
+    },
+    {
+      "slug": "650gt",
+      "local": "public/images/motos/650gt/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/04/650GT.jpeg",
+      "width": 800,
+      "height": 578,
+      "bytes": 57456,
+      "page": "https://cfmotouruguay.com/650gt/"
+    },
+    {
+      "slug": "650tr-g",
+      "local": "public/images/motos/650tr-g/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/08/cfmoto-650tr-g-blanco.jpeg",
+      "width": 820,
+      "height": 530,
+      "bytes": 50004,
+      "page": "https://cfmotouruguay.com/650trg/"
+    },
+    {
+      "slug": "cforce-450s",
+      "local": "public/images/cuatriciclos/cforce-450s/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Hunter-Green_Left-45_168-scaled.jpg",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 241863,
+      "page": "https://cfmotouruguay.com/cforce-450s/"
+    },
+    {
+      "slug": "cforce-520l",
+      "local": "public/images/cuatriciclos/cforce-520l/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-1.jpeg",
+      "width": 800,
+      "height": 578,
+      "bytes": 59140,
+      "page": "https://cfmotouruguay.com/cforce-520l/"
+    },
+    {
+      "slug": "cforce-850xc",
+      "local": "public/images/cuatriciclos/cforce-850xc/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-1.jpeg",
+      "width": 800,
+      "height": 578,
+      "bytes": 72264,
+      "page": "https://cfmotouruguay.com/cforce-850-xc/"
+    },
+    {
+      "slug": "zforce-550ex",
+      "local": "public/images/utv/zforce-550ex/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-550-EX-1.jpeg",
+      "width": 800,
+      "height": 578,
+      "bytes": 60179,
+      "page": "https://cfmotouruguay.com/zforce-550-ex/"
+    },
+    {
+      "slug": "zforce-1000-sport",
+      "local": "public/images/utv/zforce-1000-sport/perfil-oficial.jpg",
+      "source": "https://cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-1.png",
+      "width": 800,
+      "height": 578,
+      "bytes": 53392,
+      "page": "https://cfmotouruguay.com/zforce-1000-sport/"
+    }
+  ]
+}

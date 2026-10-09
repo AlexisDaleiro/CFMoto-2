@@ -1,0 +1,89 @@
+{
+  "checkedAt": "2026-10-09T03:34:58.833Z",
+  "records": [
+    {
+      "local": "public/images/motos/800mt-touring/perfil-oficial.png",
+      "source": "https://cfmotoitaly.it/wp-content/uploads/800mtouring_allineata.png",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 3327998
+    },
+    {
+      "local": "public/images/motos/800mt-touring/hero-oficial.jpg",
+      "source": "https://www.cfmoto.com/content/dam/cfmoto/site/global/product/motorcycle/mt----mult-touring/800mt-touring/documentation/2021_800MT%20brochure_International.pdf#page=1",
+      "width": 2200,
+      "height": 828,
+      "bytes": 280311
+    },
+    {
+      "local": "public/images/motos/800mt-touring/hero-mobile.jpg",
+      "source": "https://www.cfmoto.com/content/dam/cfmoto/site/global/product/motorcycle/mt----mult-touring/800mt-touring/documentation/2021_800MT%20brochure_International.pdf#page=7",
+      "width": 775,
+      "height": 1162,
+      "bytes": 189103
+    },
+    {
+      "local": "public/images/motos/700cl-x-heritage/perfil.png",
+      "source": "https://cfmotoitaly.it/wp-content/uploads/700clx.png",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 2794192
+    },
+    {
+      "local": "public/images/motos/700cl-x-sport/perfil.png",
+      "source": "https://cfmotoitaly.it/wp-content/uploads/Sport_laterale_bianca.png",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 2557151
+    },
+    {
+      "local": "public/images/motos/650mt/hero.jpg",
+      "source": "https://cfmotoitaly.it/wp-content/uploads/CFMOTO-650MT_03-scaled.jpg",
+      "width": 2400,
+      "height": 1597,
+      "bytes": 716717
+    },
+    {
+      "local": "public/images/utv/zforce-1000-sport/perfil.png",
+      "source": "https://cfmoto.com.ar/wp-content/uploads/2020/10/zforce1000Sport.png",
+      "width": 1140,
+      "height": 867,
+      "bytes": 473537
+    },
+    {
+      "local": "public/images/utv/zforce-1000-sport/hero.jpg",
+      "source": "https://cfmoto.com.ar/wp-content/uploads/2020/10/ZFORCE-1000-Sport.jpg",
+      "width": 900,
+      "height": 600,
+      "bytes": 86757
+    },
+    {
+      "local": "public/images/utv/zforce-1000-sport/galeria-01.jpg",
+      "source": "https://cfmoto.com.ar/wp-content/uploads/2020/10/MY2021_ZFORCE-1000-Sport_Action-51.jpg",
+      "width": 900,
+      "height": 600,
+      "bytes": 121385
+    },
+    {
+      "local": "public/images/utv/zforce-1000-sport/galeria-02.jpg",
+      "source": "https://cfmoto.com.ar/wp-content/uploads/2020/10/MY2021_ZFORCE-1000-Sport_Action-40.jpg",
+      "width": 900,
+      "height": 600,
+      "bytes": 138982
+    },
+    {
+      "local": "public/images/utv/zforce-1000-sport/galeria-03.jpg",
+      "source": "https://cfmoto.com.ar/wp-content/uploads/2020/10/MY2021_ZFORCE-1000-Sport_Action-38.jpg",
+      "width": 900,
+      "height": 600,
+      "bytes": 71155
+    },
+    {
+      "local": "public/images/utv/zforce-1000-sport/galeria-04.jpg",
+      "source": "https://cfmoto.com.ar/wp-content/uploads/2020/10/MY2021_ZFORCE-1000-Sport_Action-17.jpg",
+      "width": 900,
+      "height": 600,
+      "bytes": 127443
+    }
+  ]
+}

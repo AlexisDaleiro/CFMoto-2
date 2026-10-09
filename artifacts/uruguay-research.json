@@ -1,0 +1,1822 @@
+{
+  "checkedAt": "2026-10-09T03:33:44.645Z",
+  "records": [
+    {
+      "slug": "150nk",
+      "source": "https://cfmotouruguay.com/150nk/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/150NK-1.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/150NK-2.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/150NK-1.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/150NK-2.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/garantia.png",
+          "alt": "garantia"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210610081304.jpeg",
+          "alt": "150NK"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210610084450.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210610084352.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190807151208.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210610084429.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210610084706.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210610084326.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Tipo de motor",
+            "Monocilindrico, SOHC, 4 tiempos, 2 valvulas, Refrigerado por líquido, Vertical"
+          ],
+          [
+            "Desplazamiento",
+            "149.5 cc"
+          ],
+          [
+            "Diámetro x Carrera",
+            "57×58.6 mm"
+          ],
+          [
+            "Potencia",
+            "12 hp/8250rpm"
+          ],
+          [
+            "Torque",
+            "11.5Nm/6500rpm"
+          ],
+          [
+            "Relación de comprensión",
+            "10.5: 1"
+          ],
+          [
+            "Encendido",
+            "Electronico (ECU)"
+          ],
+          [
+            "Caja de cambios",
+            "6 velocidades"
+          ],
+          [
+            "Suministro de combustible",
+            "EFI (Inyección electronica BOSCH)"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Alto",
+            "2025×770×1070mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1360mm"
+          ],
+          [
+            "Altura de asiento",
+            "775mm"
+          ],
+          [
+            "Distancia mínima al suelo",
+            "150mm"
+          ],
+          [
+            "Peso en vacío",
+            "142 kg"
+          ],
+          [
+            "Capacidad de carga",
+            "150 kg"
+          ],
+          [
+            "Capacidad de combustible",
+            "10L"
+          ],
+          [
+            "Velocidad máxima",
+            "125 km / h"
+          ],
+          [
+            "Colores",
+            "Azul turquesa, Gris titaneo"
+          ]
+        ],
+        [
+          [
+            "Suspensión",
+            "Delantera: Horquilla Invertida de 41 mm. Trasera:Monoshock regulable"
+          ],
+          [
+            "Frenos",
+            "Hidráulicos"
+          ],
+          [
+            "Llantas",
+            "Frente 2.5 x 17 MT; Trasero: 3.5 x 17 MT"
+          ],
+          [
+            "Neumáticos",
+            "CST radial de alta velocidad Delantero: 100/80 R17. Trasero: 130/70 R17"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "400nk",
+      "source": "https://cfmotouruguay.com/400nk/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/20200209_400NK-左前45-星光白-拷贝.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/20200209_400NK-左前45-雅典蓝-拷贝.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/20200209_400NK-左前45-星光白-拷贝.jpg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/20200209_400NK-左前45-雅典蓝-拷贝.jpg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/garantia.png",
+          "alt": "garantia"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/20200209_400NK-%E5%B7%A6%E5%89%8D45-%E6%98%9F%E5%85%89%E7%99%BD-%E6%8B%B7%E8%B4%9D.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211230091555.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211230091709.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211230091721.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211230091610.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211230091643.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211230091736.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Tipo de motor",
+            "Bicilindrica, 4Tiempos, Refrigeración líquida, DOHC"
+          ],
+          [
+            "Desplazamiento",
+            "400 cc"
+          ],
+          [
+            "Diámetro x Carrera",
+            "68,4 × 54,5 mm"
+          ],
+          [
+            "Potencia",
+            "41HP/9500rpm"
+          ],
+          [
+            "Torque",
+            "32Nm/7750rpm"
+          ],
+          [
+            "Relación de compresión",
+            "11,1: 1"
+          ],
+          [
+            "Encendido",
+            "Electrónico(ECU)"
+          ],
+          [
+            "Caja de cambios",
+            "6 velocidades"
+          ],
+          [
+            "Suministro de combustible",
+            "EFI (Inyeccion electrónica BOSCH)"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Alto",
+            "2114×830×1105mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1415mm"
+          ],
+          [
+            "Altura del asiento",
+            "780mm"
+          ],
+          [
+            "Distancia mínima del suelo",
+            "150mm"
+          ],
+          [
+            "Peso en vacío",
+            "206 kg"
+          ],
+          [
+            "Capacidad de carga",
+            "17 lt"
+          ],
+          [
+            "Velocidad máxima",
+            "180 Kms/hra"
+          ],
+          [
+            "Colores",
+            "Nebula White, Athens Blue"
+          ]
+        ],
+        [
+          [
+            "Suspensión",
+            "Adelante: Horquilla Telescópica. Atrás Monoshock regulable en carga y pre carga"
+          ],
+          [
+            "Frenos",
+            "Doble Disco del Disco simple tras. JJuan con ABS Continental"
+          ],
+          [
+            "Llantas",
+            "Aleación 17″"
+          ],
+          [
+            "Neumáticos",
+            "Adelante: 120/70 CST. Atrás : 160/60 CST"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "400gt",
+      "source": "https://cfmotouruguay.com/400gt/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/400GT-1.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/400GT-2.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/400GT-1.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/400GT-2.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190606145607.jpeg",
+          "alt": "400GT"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190606082000.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190606082117.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190606082159.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190606082030.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190606082055.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20190606082226.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Motor",
+            "Bilicilidrico en línea, regrigferación liquida"
+          ],
+          [
+            "Cilindrada",
+            "400 cc"
+          ],
+          [
+            "Potencia",
+            "41HP/9500 RPM"
+          ],
+          [
+            "Torque",
+            "34.4 NM/7650 RPM"
+          ],
+          [
+            "Compresión",
+            "11.1 : 1"
+          ],
+          [
+            "Ignición",
+            "ECU"
+          ],
+          [
+            "Inyección",
+            "Electrónica (BOSCH)"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Altura",
+            "2100×784×1300mm"
+          ],
+          [
+            "Altura del asiento",
+            "795mm"
+          ],
+          [
+            "Despeje al suelo",
+            "150mm"
+          ],
+          [
+            "Peso",
+            "226 kg"
+          ],
+          [
+            "Capacidad de combustible",
+            "19L"
+          ],
+          [
+            "Colores",
+            "Azul concepto/Blanco nebulosa"
+          ]
+        ],
+        [
+          [
+            "Suspensión",
+            "Adelante: Horquilla, atrás: Tipo Cantilever"
+          ],
+          [
+            "Frenos",
+            "Hidráulicos con ABS continental"
+          ],
+          [
+            "Llantas",
+            "Aleación"
+          ],
+          [
+            "Neumáticos",
+            "Adelante: 120/70 ZR17 CST, atrás: 160/60 ZR17 CST"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "650nk",
+      "source": "https://cfmotouruguay.com/650nk/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/650NK-1.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/650NK-2.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/650NK-1.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/650NK-2.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211229144610.jpeg",
+          "alt": "650NK"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211229171319.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211229171405.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211229171415.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211229171330.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211229171345.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20211229171431.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Motor",
+            "Bicilindrico en linea, DOHC"
+          ],
+          [
+            "Cilindrada",
+            "649,3 cc"
+          ],
+          [
+            "Ignición",
+            "ECU"
+          ],
+          [
+            "Compresión",
+            "11.3 : 1"
+          ],
+          [
+            "Torque",
+            "56Nm/7000rpm"
+          ],
+          [
+            "Inyección",
+            "Electrónica"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Altura",
+            "2114×830×1105mm"
+          ],
+          [
+            "Altura al asiento",
+            "780 mm"
+          ],
+          [
+            "Despeje al suelo",
+            "150 mm"
+          ],
+          [
+            "Peso",
+            "206 kg"
+          ],
+          [
+            "Deposito de combustible",
+            "17 L"
+          ]
+        ],
+        [
+          [
+            "Suspensión",
+            "Horquilla y basculante KYB"
+          ],
+          [
+            "Frenos",
+            "Discos hidráulicos + ABS continental"
+          ],
+          [
+            "Llantas",
+            "Aleación"
+          ],
+          [
+            "Neumáticos",
+            "Adelante: 120/70 17R, atrás: 160/60 17R"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "650gt",
+      "source": "https://cfmotouruguay.com/650gt/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/04/650GT.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/GT650-3web.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/GT650-1web.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/04/650GT.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/GT650-3web.jpg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/05/GT650-1web.jpg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/GT650-3web.jpg",
+          "alt": "gt650"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210811142532.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210811142610.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210811142621.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210811142542.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210811142555.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20210811142631.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Motor",
+            "Bicilindrico en línea, 8 valvulas, DOHC"
+          ],
+          [
+            "Cilindrada",
+            "649,3 cc"
+          ],
+          [
+            "Potencia",
+            "60 HP /8750RPM"
+          ],
+          [
+            "Torque",
+            "56 Nm/7000 rpm"
+          ],
+          [
+            "Compresión",
+            "11,3: 1"
+          ],
+          [
+            "Ignición",
+            "ECU"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ],
+          [
+            "Inyección",
+            "Electrónica"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Alto",
+            "2100 x 784 x 1340 mm"
+          ],
+          [
+            "Altura al asiento",
+            "795 mm"
+          ],
+          [
+            "Despeje al suelo",
+            "150mm"
+          ],
+          [
+            "Peso",
+            "236 kg"
+          ],
+          [
+            "Deposito de combustible",
+            "19 L"
+          ],
+          [
+            "Capacidad de combustible",
+            "18 ltrs"
+          ],
+          [
+            "Colores",
+            "Athens Blue/Nebula White Matte Titanium Grey"
+          ]
+        ],
+        [
+          [
+            "Suspensión",
+            "HORQUILLA KAYABA Y BASCULANTE CANTILEVER"
+          ],
+          [
+            "Frenos",
+            "Doble Disco del, Disco simple tras.JJuan con ABS Continental"
+          ],
+          [
+            "Llantas",
+            "Aleación 17″"
+          ],
+          [
+            "Neumáticos",
+            "Adelante: 120/70 Pirelli. Atrás : 160/60 Pirelli"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "650trg",
+      "source": "https://cfmotouruguay.com/650trg/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/08/cfmoto-650tr-g-blanco.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/08/031-1.png",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/1.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/5.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/6.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/4.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/2.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/05/3.jpg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Motor",
+            "BICILÍNDRICO EN LÍNEA, 8 VÁLVULAS, DOHC"
+          ],
+          [
+            "Cilindrada",
+            "649,3 CC"
+          ],
+          [
+            "Potencia",
+            "69,7 HP"
+          ],
+          [
+            "Torque",
+            "56 NM /7000RPM"
+          ],
+          [
+            "Compresión",
+            "11,3: 1"
+          ],
+          [
+            "Ignición",
+            "ECU"
+          ],
+          [
+            "Inyección",
+            "Electrónica"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Alto",
+            "2210×998×1360MM"
+          ],
+          [
+            "Altura al asiento",
+            "780 MM"
+          ],
+          [
+            "Peso",
+            "252 KG"
+          ],
+          [
+            "Deposito de combustible",
+            "22 L"
+          ]
+        ],
+        [
+          [
+            "Suspensión",
+            "HORQUILLA WP Y BASCULANTE CANTILEVER"
+          ],
+          [
+            "Frenos",
+            "ABS, PINZAS J.JUAN"
+          ],
+          [
+            "Llantas",
+            "Aleación"
+          ],
+          [
+            "Neumáticos",
+            "Adelante: 120/70 17R, Atrás : 160/60 17R"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "cforce-450s",
+      "source": "https://cfmotouruguay.com/cforce-450s/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Hunter-Green_Left-45_168-scaled.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Hunter-Green_Right_168-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Lava-Orange_Left-45_168-scaled.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Lava-Orange_Right_168-scaled.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Jet-Black_Left-45_168-1-scaled.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Jet-Black_Right_168-scaled.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Sky-Blue_Left-45_168-scaled.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Sky-Blue_Right_168-scaled.jpg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Hunter-Green_Left-45_168-scaled.jpg",
+          "alt": "CFORCE 450_Hunter Green_Left 45_168"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Hunter-Green_Right_168-scaled.jpg",
+          "alt": "CFORCE 450_Hunter Green_Right_168"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Lava-Orange_Left-45_168-scaled.jpg",
+          "alt": "20211230_CFORCE450 Right90 167 Lava Orange"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Lava-Orange_Right_168-scaled.jpg",
+          "alt": "CFORCE 450_Lava Orange_Right_168"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Jet-Black_Left-45_168-1-scaled.jpg",
+          "alt": "CFORCE 450_Jet Black_Left 45_168"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Jet-Black_Right_168-scaled.jpg",
+          "alt": "CFORCE 450_Jet Black_Right_168"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Sky-Blue_Left-45_168-scaled.jpg",
+          "alt": "CFORCE 450_Sky Blue_Left 45_168"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Sky-Blue_Right_168-scaled.jpg",
+          "alt": "CFORCE 450_Sky Blue_Right_168"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2023/02/CFORCE-450_Hunter-Green_Right_168-1024x683.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/RSC5398-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/2Itn-9YQ.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/7vEwh86g.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/d3gBZAOQ.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/RSC5863-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/RSC5439-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/RSC5642-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/zsbNXRNw-1.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/07/VsqAYFZQ.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Tipo de motor",
+            "MONOCILÍNDRICO, 4 VÁLVULAS, SOHC, REFRIGERADO POR AGUA"
+          ],
+          [
+            "Cilindrada",
+            "495 CC"
+          ],
+          [
+            "Torque",
+            "33 NM /5800 RPM"
+          ],
+          [
+            "Compresión",
+            "10.3 : 1"
+          ],
+          [
+            "Inyección",
+            "ELECTRÓNICA"
+          ],
+          [
+            "Transmision",
+            "CTV"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Altura",
+            "2300 × 1100 × 1350 MM"
+          ],
+          [
+            "Distancia entre ejes",
+            "1460 MM"
+          ],
+          [
+            "Altura del asiento",
+            "530mm"
+          ],
+          [
+            "Despeje al suelo",
+            "250 MM"
+          ],
+          [
+            "Peso",
+            "360 KG"
+          ],
+          [
+            "Capacidad de carga útil",
+            "230 KG"
+          ],
+          [
+            "Capacidad de combustible",
+            "15 LITROS"
+          ]
+        ],
+        [
+          [
+            "Tracción",
+            "SELECTOR ELECTRÓNICO 4×2/4×4 Y BLOQUEO DE DIFERENCIAL"
+          ],
+          [
+            "Frenos",
+            "HIDRÁULICO"
+          ],
+          [
+            "Suspensión",
+            "DOBLE A-ARM"
+          ],
+          [
+            "Malacate",
+            "2500 LB"
+          ],
+          [
+            "Llantas",
+            "Aluminio"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "cforce-520l",
+      "source": "https://cfmotouruguay.com/cforce-520l/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-1.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-2.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-3.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-4.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-1.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-2.jpeg",
+          "alt": "20200929083344"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-3.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Lava Orange"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-4.jpeg",
+          "alt": "20200929083400"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-520L-1-e1654203873301.jpeg",
+          "alt": "CFORCE 520L"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925135334.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925135250.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925135237.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925135319.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925135305.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925135221.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "TIPO DE MOTOR",
+            "MONOCILÍNDRICO, 4 VÁLVULAS, SOHC, REFRIGERADO POR AGUA"
+          ],
+          [
+            "CILINDRADA",
+            "495 CC"
+          ],
+          [
+            "POTENCIA",
+            "38 HP"
+          ],
+          [
+            "TORQUE",
+            "46NM/5000RPM"
+          ],
+          [
+            "COMPRESIÓN",
+            "10.3 : 1"
+          ],
+          [
+            "INYECCIÓN",
+            "ELECTRÓNICA EFI"
+          ],
+          [
+            "TRANSMISIÓN",
+            "CVT"
+          ]
+        ],
+        [
+          [
+            "LARGO X ANCHO X ALTURA",
+            "2300 MM X 1100MM X 1350MM"
+          ],
+          [
+            "DISTANCIA ENTRE EJES",
+            "1460mm"
+          ],
+          [
+            "DISTANCIA MINIMA AL SUELO",
+            "250mm"
+          ],
+          [
+            "PESO",
+            "210 kg"
+          ],
+          [
+            "CAPACIDAD DE CARGA UTIL",
+            "210 kg"
+          ],
+          [
+            "CAPACIDAD DE COMBUSTIBLE",
+            "15L"
+          ]
+        ],
+        [
+          [
+            "TRACCIÓN",
+            "SELECTOR ELECTRÓNICO 4×2/4×4, BLOQUEO DE DIFERENCIAL"
+          ],
+          [
+            "SUSPENSIÓN",
+            "DOBLE A-ARM"
+          ],
+          [
+            "FRENOS",
+            "HIDRÁULICO"
+          ],
+          [
+            "LLANTAS",
+            "ALUMINIO"
+          ],
+          [
+            "MALACATE",
+            "1200 Kg"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "cforce-850-xc",
+      "source": "https://cfmotouruguay.com/cforce-850-xc/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-1.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-2.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-3.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-4.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-1.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-2.jpeg",
+          "alt": "20200929083344"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-3.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Lava Orange"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-4.jpeg",
+          "alt": "20200929083400"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFORCE-850-XC-1.jpeg",
+          "alt": "CFORCE 850 XC"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925144659.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925144754.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925144813.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925144717.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925144737.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200925144835.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Motor",
+            "V-TWIN, 4 valvulas, SOHC"
+          ],
+          [
+            "Cilindrada",
+            "800 cc"
+          ],
+          [
+            "Potencia",
+            "64 HP"
+          ],
+          [
+            "Torque",
+            "64NM/ 6500 RPM"
+          ],
+          [
+            "Compresión",
+            "10.3: 1"
+          ],
+          [
+            "Inyección",
+            "Electronica"
+          ],
+          [
+            "Transmisión",
+            "CVT"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Altura",
+            "2310x1264x1420mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "1480mm"
+          ],
+          [
+            "Despeje al suelo",
+            "285mm"
+          ],
+          [
+            "Peso",
+            "447 kg"
+          ],
+          [
+            "Capacidad de carga/arrastre",
+            "210 kg"
+          ],
+          [
+            "Deposito de combustible",
+            "30 L"
+          ]
+        ],
+        [
+          [
+            "Tracción",
+            "Selector electronico 4×2/4×4/ Bloqueo de diferencial"
+          ],
+          [
+            "Frenos",
+            "Hidráulicos"
+          ],
+          [
+            "Suspensión",
+            "Independiente con eje de torsión"
+          ],
+          [
+            "Llantas",
+            "Aleación"
+          ],
+          [
+            "Malacate",
+            "3.000 LB"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "zforce-550-ex",
+      "source": "https://cfmotouruguay.com/zforce-550-ex/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-550-EX-1.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-550-EX-2.jpeg",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-550-EX-1.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-550-EX-2.jpeg",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-550-EX-1.jpeg",
+          "alt": "ZFORCE 550 EX"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200916163339.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200916163531.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200916163553.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200916163359.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200916163456.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200916163611.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Tipo de motor",
+            "Monocilíndrico, refrigerado por líquido, 4 tiempos, SOHC, 4 válvulas"
+          ],
+          [
+            "Desplazamiento",
+            "495 cc"
+          ],
+          [
+            "Diámetro x Carrera",
+            "91.0 × 74.2 mm"
+          ],
+          [
+            "RELACIÓN DE COMPRENSIÓN",
+            "10.3:1"
+          ],
+          [
+            "ENCENDIDO",
+            "ECU"
+          ],
+          [
+            "Suministro de combustible",
+            "EFI"
+          ],
+          [
+            "Transmisión",
+            "CVT"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Altura",
+            "2870×1510×1830mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "2040mm"
+          ],
+          [
+            "Altura del asiento",
+            "395mm"
+          ],
+          [
+            "Distancia mínima al suelo",
+            "287mm"
+          ],
+          [
+            "Peso en vacío",
+            "552 kg"
+          ],
+          [
+            "Capacidad de carga útil",
+            "305 kg"
+          ],
+          [
+            "Capacidad de combustible",
+            "27L"
+          ]
+        ],
+        [
+          [
+            "TRANSMISIÓN",
+            "Seleccionable 4×4 / 4×2"
+          ],
+          [
+            "Freno",
+            "Delantero/ trasero: hidráulico"
+          ],
+          [
+            "Suspensión",
+            "Delantera / trasera: Doble brazo, suspensión independiente"
+          ],
+          [
+            "Amortiguador",
+            "Delantera / trasero: Resorte de gas, amortiguador de aceite de resorte espiral."
+          ],
+          [
+            "Llanta",
+            "Frente: 14 × 7,0Trasero: 14 × 8,0"
+          ],
+          [
+            "Neumático",
+            "Delantero: 25 x 8.00-12; 26 x 9.00-12; Trasero: 25 x 10.00-12"
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "zforce-1000-sport",
+      "source": "https://cfmotouruguay.com/zforce-1000-sport/",
+      "status": 200,
+      "images": [
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/CFMOTO_Logo_White-200x72.png",
+          "alt": "CFMOTO Uruguay"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-1.png",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-2.png",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-3.png",
+          "alt": "CFORCE450"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-1.png",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-2.png",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "//cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-3.png",
+          "alt": "20211230_CFORCE450 Right90 167 Sky Blue"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIKICAgICAgICAgICAgICBmaWxsPSIjZmZmIi8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIKICAgICAgICAgICAgICBkPSJNMTIuNTY1IDE2LjgyMmMuMTI2LjEyLjI3LjE4Mi40MzYuMTgyLjE2OCAwIC4zMS0uMDYuNDMtLjE4Mmw0LjM4LTQuMTc1Yy4xMjgtLjEyLjE5LS4yNjIuMTktLjQyNCAwLS4xNi0uMDYyLS4zMDItLjE5LS40MjNsLS42NS0uNjIyYy0uMTI1LS4xMi0uMjcyLS4xODItLjQ0LS4xODItLjE3IDAtLjMxNC4wNi0uNDM2LjE4MmwtMy4zMTQgMy4xNi0zLjI1LTMuMTZjLS4xMjYtLjEyLS4yNy0uMTgyLS40My0uMTgyLS4xNjYgMC0uMzEuMDYtLjQzNS4xODJsLS42NjIuNjIyYy0uMTI2LjEyLS4xOS4yNjItLjE5LjQyMyAwIC4xNjIuMDY0LjMwMy4xOS40MjRsNC4zNzMgNC4xNzV6Ii8+CiAgICA8L2c+Cjwvc3ZnPg==",
+          "alt": "next arrow"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/ZFORCE-1000-Sport-2.png",
+          "alt": "ZFORCE 1000 Sport"
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200804084354.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200804084512.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200814133726.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200804084418.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200814134551.jpeg",
+          "alt": ""
+        },
+        {
+          "src": "https://cfmotouruguay.com/wp-content/uploads/2022/03/20200804084546.jpeg",
+          "alt": ""
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Tipo de motor",
+            "V-TWIN DE 8 VÁLVULAS Y REFRIGERACIÓN LÍQUIDA"
+          ],
+          [
+            "Desplazamiento",
+            "963 cc"
+          ],
+          [
+            "Índice de compresión",
+            "10,6:1"
+          ],
+          [
+            "Poder máximo",
+            "80kW / 7500rpm"
+          ],
+          [
+            "Tuerca máxima",
+            "78N.m / 7000rpm"
+          ],
+          [
+            "INYECCIÓN",
+            "BOSCH EFI"
+          ],
+          [
+            "TRANSMISIÓN",
+            "CVTECH AUTOMÁTICA L/H/N/R/P"
+          ]
+        ],
+        [
+          [
+            "Largo X Ancho x Altura",
+            "3135×1565×1820mm"
+          ],
+          [
+            "Distancia entre ejes",
+            "2285mm"
+          ],
+          [
+            "Diámetro mínimo de giro",
+            "con diferencial trasero: 11000 mm\nsin diferencial trasero: 12000 mm"
+          ],
+          [
+            "Distancia mínima al suelo",
+            "310mm"
+          ],
+          [
+            "Peso en vacío",
+            "690 kg"
+          ],
+          [
+            "Capacidad de carga útil",
+            "350 kg"
+          ],
+          [
+            "Capacidad de combustible",
+            "36.5L"
+          ]
+        ],
+        [
+          [
+            "Conducir",
+            "BLOQUEO 2WD/4WD/4WD"
+          ],
+          [
+            "Suspensión",
+            "ADELANTE: INDEPENDIENTE DUAL ARM CON 34 CM DE RECORRIDO.\n\nATRÁS: QUADLINK CON AMORTIGUADORES DE GAS TOTALMENTE AJUSTABLES, DE 38 CM DE RECORRIDO"
+          ],
+          [
+            "ACCESORIOS",
+            "TECHO, DIRECCIÓN INCLINABLE, LUCES TRASERAS LED, TOMAS DE CORRIENTE CC Y USB"
+          ],
+          [
+            "Neumático",
+            "ADELANTE: 29/9/14\n\nATRÁS: 29/11/14"
+          ]
+        ]
+      ]
+    }
+  ]
+}

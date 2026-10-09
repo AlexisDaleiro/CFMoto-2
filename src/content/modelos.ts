@@ -6,15 +6,41 @@ export const modelos = [
     "linea": "motos",
     "nombre": "150NK",
     "segmentoCc": 150,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 2490,
     "destacado": false,
-    "bajada": "Línea 150NK. Segmento 150 cc.",
+    "bajada": "149,5 cc y caja de seis velocidades. Una naked compacta para la ciudad.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/150nk/perfil-oficial.jpg",
+      "perfil": "/images/motos/150nk/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/150nk/"
+    ],
+    "cilindradaCc": 149.5,
+    "origen": {
+      "version": "150NK",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "149,5 cc"
+          ],
+          [
+            "Motor",
+            "Monocilindrico, SOHC, 4 tiempos, 2 valvulas, Refrigerado por líquido, Vertical"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "250nk",
@@ -140,7 +166,11 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "250NK",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "300sr",
@@ -262,7 +292,11 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "300SR",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "300nk",
@@ -388,37 +422,93 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "300NK",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "400nk",
     "linea": "motos",
     "nombre": "400NK",
     "segmentoCc": 400,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 5990,
     "destacado": false,
-    "bajada": "Línea 400NK. Segmento 400 cc.",
+    "bajada": "Bicilíndrica de 400 cc con refrigeración líquida y caja de seis velocidades.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/400nk/perfil-oficial.jpg",
+      "perfil": "/images/motos/400nk/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/400nk/"
+    ],
+    "cilindradaCc": 400,
+    "origen": {
+      "version": "400NK",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "400 cc"
+          ],
+          [
+            "Motor",
+            "Bicilindrica, 4Tiempos, Refrigeración líquida, DOHC"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "400gt",
     "linea": "motos",
     "nombre": "400GT",
     "segmentoCc": 400,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 6990,
     "destacado": false,
-    "bajada": "Línea 400GT. Segmento 400 cc.",
+    "bajada": "400 cc y seis velocidades. Una gran turismo con parabrisas regulable.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/400gt/perfil-oficial.jpg",
+      "perfil": "/images/motos/400gt/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/400gt/"
+    ],
+    "cilindradaCc": 400,
+    "origen": {
+      "version": "400GT",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "400 cc"
+          ],
+          [
+            "Motor",
+            "Bilicilidrico en línea, regrigferación liquida"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "450sr",
@@ -540,97 +630,309 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "450SR",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "650mt",
     "linea": "motos",
     "nombre": "650MT",
     "segmentoCc": 650,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 8990,
     "destacado": false,
-    "bajada": "Línea 650MT. Segmento 650 cc.",
+    "bajada": "649 cc, dos cilindros y tanque de 18 litros.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/650mt/hero.jpg",
+      "perfil": "/images/motos/650mt/hero.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotoitaly.it/wp-content/uploads/650MT-1.pdf",
+      "https://cfmotoitaly.it/650mt-promo/"
+    ],
+    "cilindradaCc": 649,
+    "origen": {
+      "version": "650MT",
+      "mercado": "Italia; año del modelo no informado"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo",
+            "Bicilíndrico, cuatro tiempos, refrigeración líquida"
+          ],
+          [
+            "Cilindrada",
+            "649 cc"
+          ],
+          [
+            "Potencia máxima",
+            "41,5 kW / 8.250 rpm"
+          ],
+          [
+            "Caja",
+            "6 marchas"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Tanque",
+            "18 L"
+          ],
+          [
+            "Altura del asiento",
+            "830 mm"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "650nk",
     "linea": "motos",
     "nombre": "650NK",
     "segmentoCc": 650,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 7990,
     "destacado": false,
-    "bajada": "Línea 650NK. Segmento 650 cc.",
+    "bajada": "649,3 cc y motor bicilíndrico en línea. Una naked con caja de seis velocidades.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/650nk/perfil-oficial.jpg",
+      "perfil": "/images/motos/650nk/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/650nk/"
+    ],
+    "cilindradaCc": 649.3,
+    "origen": {
+      "version": "650NK",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "649,3 cc"
+          ],
+          [
+            "Motor",
+            "Bicilindrico en linea, DOHC"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "650gt",
     "linea": "motos",
     "nombre": "650GT",
     "segmentoCc": 650,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 9990,
     "destacado": false,
-    "bajada": "Línea 650GT. Segmento 650 cc.",
+    "bajada": "649,3 cc y motor bicilíndrico. Una gran turismo con parabrisas ajustable.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/650gt/perfil-oficial.jpg",
+      "perfil": "/images/motos/650gt/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/650gt/"
+    ],
+    "cilindradaCc": 649.3,
+    "origen": {
+      "version": "650GT",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "649,3 cc"
+          ],
+          [
+            "Motor",
+            "Bicilindrico en línea, 8 valvulas, DOHC"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "650tr-g",
     "linea": "motos",
     "nombre": "650TR-G",
     "segmentoCc": 650,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 10990,
     "destacado": false,
-    "bajada": "Línea 650TR-G. Segmento 650 cc.",
+    "bajada": "649,3 cc y seis velocidades. Una touring con maletas laterales integradas.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/650tr-g/perfil-oficial.jpg",
+      "perfil": "/images/motos/650tr-g/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/650trg/"
+    ],
+    "cilindradaCc": 649.3,
+    "origen": {
+      "version": "650TR-G",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "649,3 cc"
+          ],
+          [
+            "Motor",
+            "BICILÍNDRICO EN LÍNEA, 8 VÁLVULAS, DOHC"
+          ],
+          [
+            "Transmisión",
+            "6 velocidades"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "700cl-x-heritage",
     "linea": "motos",
     "nombre": "700CL-X Heritage",
     "segmentoCc": 700,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 9990,
     "destacado": false,
-    "bajada": "Línea 700CL-X Heritage. Segmento 700 cc.",
+    "bajada": "693 cc, dos cilindros y rueda delantera de 18 pulgadas.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/700cl-x-heritage/perfil.png",
+      "perfil": "/images/motos/700cl-x-heritage/perfil.png"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotoitaly.it/700clx/"
+    ],
+    "cilindradaCc": 693,
+    "origen": {
+      "version": "700CL-X Heritage",
+      "mercado": "Italia; año del modelo no informado"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo",
+            "Bicilíndrico, cuatro tiempos, refrigeración líquida"
+          ],
+          [
+            "Cilindrada",
+            "693 cc"
+          ],
+          [
+            "Potencia máxima",
+            "51,5 kW / 8.750 rpm"
+          ],
+          [
+            "Caja",
+            "6 marchas"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Tanque",
+            "13 L"
+          ],
+          [
+            "Altura del asiento",
+            "780 mm"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "700cl-x-sport",
     "linea": "motos",
     "nombre": "700CL-X Sport",
     "segmentoCc": 700,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 10990,
     "destacado": false,
-    "bajada": "Línea 700CL-X Sport. Segmento 700 cc.",
+    "bajada": "693 cc, dos cilindros y doble disco delantero Brembo.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/motos/700cl-x-sport/perfil.png",
+      "perfil": "/images/motos/700cl-x-sport/perfil.png"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotoitaly.it/700cl-x-sport/"
+    ],
+    "cilindradaCc": 693,
+    "origen": {
+      "version": "700CL-X Sport",
+      "mercado": "Italia; año del modelo no informado"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Tipo",
+            "Bicilíndrico, cuatro tiempos, refrigeración líquida"
+          ],
+          [
+            "Cilindrada",
+            "693 cc"
+          ],
+          [
+            "Potencia máxima",
+            "51,5 kW / 8.750 rpm"
+          ],
+          [
+            "Caja",
+            "6 marchas"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Tanque",
+            "13 L"
+          ],
+          [
+            "Altura del asiento",
+            "795 mm"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "800mt-touring",
@@ -643,18 +945,20 @@ export const modelos = [
     "destacado": true,
     "bajada": "799 cc, dos cilindros. Del asfalto al balasto.",
     "imagenes": {
-      "hero": "/images/motos/800mt-touring/hero.jpg",
-      "perfil": "/images/motos/800mt-touring/perfil.png",
+      "hero": "/images/motos/800mt-touring/hero-oficial.jpg",
+      "perfil": "/images/motos/800mt-touring/perfil-oficial.png",
       "galeria": [
         "/images/motos/800mt-touring/galeria-01.jpg",
         "/images/motos/800mt-touring/galeria-02.jpg",
         "/images/motos/800mt-touring/galeria-03.jpg",
         "/images/motos/800mt-touring/galeria-04.jpg",
         "/images/motos/800mt-touring/galeria-05.jpg"
-      ]
+      ],
+      "heroMobile": "/images/motos/800mt-touring/hero-mobile.jpg"
     },
     "fuentes": [
-      "https://www.cfmoto.com/content/dam/cfmoto/site/global/product/motorcycle/mt----mult-touring/800mt-touring/documentation/2021_800MT%20brochure_International.pdf"
+      "https://www.cfmoto.com/content/dam/cfmoto/site/global/product/motorcycle/mt----mult-touring/800mt-touring/documentation/2021_800MT%20brochure_International.pdf",
+      "https://cfmotoitaly.it/800-mt-touring/"
     ],
     "potenciaHp": 95,
     "torqueNm": 77,
@@ -824,6 +1128,18 @@ export const modelos = [
         "valor": "231",
         "unidad": "kg"
       }
+    ],
+    "origen": {
+      "version": "800MT Touring; ficha del folleto internacional",
+      "anio": 2021,
+      "mercado": "Global; fotografía de perfil de CFMOTO Italia"
+    },
+    "piesGaleria": [
+      "800MT Touring sobre balasto.",
+      "Maletas laterales; equipamiento según versión.",
+      "Motor bicilíndrico de 799 cc.",
+      "Tablero TFT de 7 pulgadas.",
+      "Dos 800MT Touring en un camino de tierra."
     ]
   },
   {
@@ -970,37 +1286,90 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "800MT Sport",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "cforce-450s",
     "linea": "cuatriciclos",
     "nombre": "CFORCE 450S",
     "segmentoCc": 400,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 6490,
     "destacado": false,
-    "bajada": "Línea CFORCE 450S. Segmento 400 cc.",
+    "bajada": "400 cc, inyección electrónica y tracción seleccionable 2WD/4WD.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/cuatriciclos/cforce-450s/perfil-oficial.jpg",
+      "perfil": "/images/cuatriciclos/cforce-450s/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/cforce-450s/",
+      "https://www.cfmoto.co.za/wp-content/uploads/2021/12/CFMOTO-Spec-Sheets-CFORCE-450S.pdf"
+    ],
+    "cilindradaCc": 400,
+    "origen": {
+      "version": "CFORCE 450S",
+      "mercado": "Sudáfrica (cilindrada); fotografía publicada en Uruguay"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "400 cc"
+          ],
+          [
+            "Motor",
+            "Monocilíndrico de cuatro tiempos, refrigeración líquida e inyección EFI"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "cforce-520l",
     "linea": "cuatriciclos",
     "nombre": "CFORCE 520L",
     "segmentoCc": 500,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 7990,
     "destacado": false,
-    "bajada": "Línea CFORCE 520L. Segmento 500 cc.",
+    "bajada": "495 cc y transmisión CVT. Un ATV con tracción seleccionable y bloqueo de diferencial.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/cuatriciclos/cforce-520l/perfil-oficial.jpg",
+      "perfil": "/images/cuatriciclos/cforce-520l/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/cforce-520l/"
+    ],
+    "cilindradaCc": 495,
+    "origen": {
+      "version": "CFORCE 520L",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "495 cc"
+          ],
+          [
+            "Motor",
+            "MONOCILÍNDRICO, 4 VÁLVULAS, SOHC, REFRIGERADO POR AGUA"
+          ],
+          [
+            "Transmisión",
+            "CVT"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "cforce-625",
@@ -1118,7 +1487,11 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "CFORCE 625",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "cforce-625-touring",
@@ -1232,22 +1605,52 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "CFORCE 625 Touring",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "cforce-850xc",
     "linea": "cuatriciclos",
     "nombre": "CFORCE 850XC",
     "segmentoCc": 800,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 12990,
     "destacado": false,
-    "bajada": "Línea CFORCE 850XC. Segmento 800 cc.",
+    "bajada": "800 cc y motor V-Twin. Un ATV con transmisión CVT y bloqueo de diferencial.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/cuatriciclos/cforce-850xc/perfil-oficial.jpg",
+      "perfil": "/images/cuatriciclos/cforce-850xc/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/cforce-850-xc/"
+    ],
+    "cilindradaCc": 800,
+    "origen": {
+      "version": "CFORCE 850XC",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "800 cc"
+          ],
+          [
+            "Motor",
+            "V-TWIN, 4 valvulas, SOHC"
+          ],
+          [
+            "Transmisión",
+            "CVT"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "cforce-1000",
@@ -1399,6 +1802,16 @@ export const modelos = [
         "titulo": "963 cc para el campo.",
         "texto": "Motor V-twin con inyección electrónica. Transmisión CVT con alta, baja, neutro, reversa y estacionamiento.",
         "imagen": "/images/cuatriciclos/cforce-1000/feature-01.jpg"
+      },
+      {
+        "titulo": "4x4, cuando hace falta.",
+        "texto": "Selección de tracción 2WD, 4WD y 4WD con bloqueo. Cuatro frenos de disco hidráulicos.",
+        "imagen": "/images/cuatriciclos/cforce-1000/galeria-02.jpg"
+      },
+      {
+        "titulo": "30 litros de tanque.",
+        "texto": "Tanque de 30 litros y 300 mm de despeje. Suspensión independiente y amortiguadores de gas ajustables en compresión y rebote.",
+        "imagen": "/images/cuatriciclos/cforce-1000/galeria-03.jpg"
       }
     ],
     "keySpecs": [
@@ -1422,6 +1835,16 @@ export const modelos = [
         "valor": "490",
         "unidad": "kg"
       }
+    ],
+    "origen": {
+      "version": "CFORCE 1000",
+      "mercado": "Global; documentación consultada en la fase 1"
+    },
+    "piesGaleria": [
+      "CFORCE 1000. Fotografía oficial en terreno.",
+      "CFORCE 1000. Vista oficial del modelo.",
+      "CFORCE 1000. Equipamiento de la versión internacional.",
+      "CFORCE 1000. Fotografía oficial del catálogo global."
     ]
   },
   {
@@ -1539,22 +1962,52 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "CFORCE 1000 Overland",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "zforce-550ex",
     "linea": "utv",
     "nombre": "ZFORCE 550EX",
     "segmentoCc": 500,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 11990,
     "destacado": false,
-    "bajada": "Línea ZFORCE 550EX. Segmento 500 cc.",
+    "bajada": "495 cc y transmisión CVT. Un side-by-side de tracción seleccionable 4×2/4×4.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/utv/zforce-550ex/perfil-oficial.jpg",
+      "perfil": "/images/utv/zforce-550ex/perfil-oficial.jpg"
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/zforce-550-ex/"
+    ],
+    "cilindradaCc": 495,
+    "origen": {
+      "version": "ZFORCE 550EX",
+      "mercado": "Uruguay; año de la versión pendiente de confirmación"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "495 cc"
+          ],
+          [
+            "Motor",
+            "Monocilíndrico, refrigerado por líquido, 4 tiempos, SOHC, 4 válvulas"
+          ],
+          [
+            "Transmisión",
+            "CVT"
+          ]
+        ]
+      }
+    ]
   },
   {
     "slug": "uforce-600",
@@ -1657,7 +2110,11 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "UFORCE 600",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "uforce-1000",
@@ -1756,7 +2213,11 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "UFORCE 1000",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "uforce-1000-xl",
@@ -1859,21 +2320,145 @@ export const modelos = [
           ]
         ]
       }
-    ]
+    ],
+    "origen": {
+      "version": "UFORCE 1000 XL",
+      "mercado": "Global; documentación consultada en la fase 1"
+    }
   },
   {
     "slug": "zforce-1000-sport",
     "linea": "utv",
     "nombre": "ZFORCE 1000 Sport",
     "segmentoCc": 1000,
-    "datosTecnicosVerificados": false,
+    "datosTecnicosVerificados": true,
     "precioDesdeUsd": 22990,
     "destacado": true,
-    "bajada": "Línea ZFORCE 1000 Sport. Segmento 1000 cc.",
+    "bajada": "963 cc y transmisión CVTech. Un side-by-side deportivo con suspensión trasera Quadlink.",
     "imagenes": {
-      "hero": "",
-      "perfil": ""
+      "hero": "/images/utv/zforce-1000-sport/hero.jpg",
+      "perfil": "/images/utv/zforce-1000-sport/perfil.png",
+      "galeria": [
+        "/images/utv/zforce-1000-sport/galeria-01.jpg",
+        "/images/utv/zforce-1000-sport/galeria-02.jpg",
+        "/images/utv/zforce-1000-sport/galeria-03.jpg",
+        "/images/utv/zforce-1000-sport/galeria-04.jpg"
+      ]
     },
-    "fuentes": []
+    "fuentes": [
+      "https://cfmotouruguay.com/zforce-1000-sport/",
+      "https://cfmoto.com.ar/"
+    ],
+    "cilindradaCc": 963,
+    "origen": {
+      "version": "ZFORCE 1000 Sport; no Sport R",
+      "mercado": "Uruguay (especificaciones); Argentina (fotografías MY2021)"
+    },
+    "specs": [
+      {
+        "grupo": "Motor",
+        "filas": [
+          [
+            "Cilindrada",
+            "963 cc"
+          ],
+          [
+            "Motor",
+            "V-TWIN DE 8 VÁLVULAS Y REFRIGERACIÓN LÍQUIDA"
+          ],
+          [
+            "Transmisión",
+            "CVTECH AUTOMÁTICA L/H/N/R/P"
+          ]
+        ]
+      },
+      {
+        "grupo": "Dimensiones",
+        "filas": [
+          [
+            "Distancia entre ejes",
+            "2.285 mm"
+          ],
+          [
+            "Despeje mínimo",
+            "310 mm"
+          ],
+          [
+            "Tanque",
+            "36,5 L"
+          ]
+        ]
+      },
+      {
+        "grupo": "Chasis y equipamiento",
+        "filas": [
+          [
+            "Tracción",
+            "2WD / 4WD / 4WD con bloqueo"
+          ],
+          [
+            "Suspensión delantera",
+            "Independiente de doble brazo"
+          ],
+          [
+            "Suspensión trasera",
+            "Quadlink con amortiguadores de gas ajustables"
+          ],
+          [
+            "Neumáticos",
+            "29 pulgadas; llantas de 14 pulgadas"
+          ],
+          [
+            "Accesorios",
+            "Techo, dirección inclinable, luces traseras LED, tomas CC y USB"
+          ]
+        ]
+      }
+    ],
+    "piesGaleria": [
+      "ZFORCE 1000 Sport en terreno abierto. Material oficial MY2021.",
+      "ZFORCE 1000 Sport en acción. Material oficial MY2021.",
+      "Vista del ZFORCE 1000 Sport. Material oficial MY2021.",
+      "Recorrido off-road del ZFORCE 1000 Sport. Material oficial MY2021."
+    ],
+    "keySpecs": [
+      {
+        "etiqueta": "Cilindrada",
+        "valor": "963",
+        "unidad": "cc"
+      },
+      {
+        "etiqueta": "Tanque",
+        "valor": "36,5",
+        "unidad": "L"
+      },
+      {
+        "etiqueta": "Despeje",
+        "valor": "310",
+        "unidad": "mm"
+      },
+      {
+        "etiqueta": "Entre ejes",
+        "valor": "2.285",
+        "unidad": "mm"
+      }
+    ],
+    "features": [
+      {
+        "titulo": "Tracción a elección.",
+        "texto": "Selección 2WD, 4WD y 4WD con bloqueo de diferencial, según la ficha publicada en Uruguay.",
+        "imagen": "/images/utv/zforce-1000-sport/galeria-01.jpg"
+      },
+      {
+        "titulo": "Suspensión Quadlink.",
+        "texto": "Suspensión delantera independiente y trasera Quadlink con amortiguadores de gas ajustables.",
+        "imagen": "/images/utv/zforce-1000-sport/galeria-02.jpg"
+      },
+      {
+        "titulo": "Listo para la travesía.",
+        "texto": "Techo, dirección inclinable, luces traseras LED y tomas de corriente CC y USB documentados en la versión de referencia.",
+        "imagen": "/images/utv/zforce-1000-sport/galeria-03.jpg"
+      }
+    ]
   }
 ] satisfies Modelo[];

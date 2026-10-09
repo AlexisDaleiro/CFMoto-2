@@ -1,6 +1,6 @@
 export const sitio = {
   nombre: "CFMOTO Uruguay",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://cfmotouruguay.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL || (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000"),
   direccion: "Ruta 101 y Calcagno, Barra de Carrasco, Canelones",
   telefono: "098 379 380",
   telefonos: ["098 379 380", "098 379 379", "091 092 095"],

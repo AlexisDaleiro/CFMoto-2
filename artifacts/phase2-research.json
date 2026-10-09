@@ -1,0 +1,143 @@
+{
+  "checkedAt": "2026-10-09T03:09:45.659Z",
+  "results": [
+    {
+      "slug": "150nk",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/naked/150nk.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "400nk",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/naked/400nk.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "400gt",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/grand-touring/400gt.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "650mt",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/mult-touring/650mt.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "650nk",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/naked/650nk.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "650gt",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/grand-touring/650gt.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "650tr-g",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/grand-touring/650tr-g.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "650tr-g",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/grand-touring/650tr_g.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "700cl-x-heritage",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/classic/700cl-x_heritage.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "700cl-x-heritage",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/classic/700cl-x-heritage.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "700cl-x-sport",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/classic/700cl-x_sport.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "700cl-x-sport",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/classic/700cl-x-sport.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "800mt-touring",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/motorcycles/mult-touring/800mt_touring.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "cforce-450s",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_450_s.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "cforce-450s",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_450s.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "cforce-520l",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_520_l.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "cforce-520l",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_520l.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "cforce-850xc",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_850_xc.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "cforce-850xc",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/atv/atv/cforce_850xc.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "zforce-550ex",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/sxs/sports/zforce_550_ex.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "zforce-550ex",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/sxs/sports/zforce_550ex.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "zforce-1000-sport",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/sxs/sports/zforce_1000_sport.html",
+      "status": 200,
+      "technical": false
+    },
+    {
+      "slug": "zforce-1000-sport",
+      "url": "https://www.cfmoto.com/content/cfmoto/global/sxs/sports/zforce-1000-sport.html",
+      "status": 200,
+      "technical": false
+    }
+  ]
+}

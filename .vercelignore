@@ -1,0 +1,5 @@
+artifacts/
+scripts/
+*.md
+.env*
+.token-optimizer/

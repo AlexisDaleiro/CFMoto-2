@@ -1,29 +1,33 @@
-[
-  {
-    "engine": "Chrome",
-    "version": "154.0.8037.93",
-    "nativeViewTransitions": true,
-    "transitionsStarted": 1,
-    "focusTrap": "pass",
-    "fallbackWithoutApi": "pass",
-    "errors": []
-  },
-  {
-    "engine": "Firefox",
-    "version": "155.0",
-    "nativeViewTransitions": true,
-    "transitionsStarted": 1,
-    "focusTrap": "pass",
-    "fallbackWithoutApi": "pass",
-    "errors": []
-  },
-  {
-    "engine": "WebKit",
-    "version": "26.6",
-    "nativeViewTransitions": true,
-    "transitionsStarted": 1,
-    "focusTrap": "pass",
-    "fallbackWithoutApi": "pass",
-    "errors": []
-  }
-]
+{
+  "checkedAt": "2026-10-09T04:19:29.226Z",
+  "environment": "http://127.0.0.1:3001",
+  "results": [
+    {
+      "engine": "Chrome",
+      "version": "154.0.8037.99",
+      "nativeViewTransitions": true,
+      "transitionsStarted": 1,
+      "focusTrap": "pass",
+      "fallbackWithoutApi": "pass",
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "version": "155.0",
+      "nativeViewTransitions": true,
+      "transitionsStarted": 1,
+      "focusTrap": "pass",
+      "fallbackWithoutApi": "pass",
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "version": "26.6",
+      "nativeViewTransitions": true,
+      "transitionsStarted": 1,
+      "focusTrap": "pass",
+      "fallbackWithoutApi": "pass",
+      "errors": []
+    }
+  ]
+}

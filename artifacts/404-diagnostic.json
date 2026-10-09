@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-09T04:20:35.939Z",
+  "environment": "http://127.0.0.1:3001",
+  "results": [
+    {
+      "path": "/ruta-inexistente",
+      "status": 404,
+      "ownInterface": true
+    },
+    {
+      "path": "/motos/modelo-inexistente",
+      "status": 404,
+      "ownInterface": true
+    },
+    {
+      "path": "/linea-inexistente/modelo",
+      "status": 404,
+      "ownInterface": true
+    },
+    {
+      "path": "/motos/800mt-touring/extra",
+      "status": 404,
+      "ownInterface": true
+    }
+  ],
+  "dynamicRoutes": {
+    "/[linea]": {
+      "fallback": false
+    },
+    "/[linea]/[modelo]": {
+      "fallback": false
+    }
+  },
+  "diagnosis": "Local Next.js 16.3.8 logs Internal: NoFallbackError for unknown static catalog paths with dynamicParams=false. HTTP and own UI remain correct. The prerender manifest uses fallback=false. Association with framework static-path rejection is reproduced; a complete internal stack is not exposed by the production log. No route widening or dependency changes were made."
+}

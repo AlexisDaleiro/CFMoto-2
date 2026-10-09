@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-09T04:25:56.626Z",
+  "environment": "https://cfmoto-2-nixky91oi-alexis20.vercel.app",
+  "results": [
+    {
+      "engine": "Chrome",
+      "version": "154.0.8037.99",
+      "nativeViewTransitions": true,
+      "transitionsStarted": 1,
+      "focusTrap": "pass",
+      "fallbackWithoutApi": "pass",
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "version": "155.0",
+      "nativeViewTransitions": true,
+      "transitionsStarted": 1,
+      "focusTrap": "pass",
+      "fallbackWithoutApi": "pass",
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "version": "26.6",
+      "nativeViewTransitions": true,
+      "transitionsStarted": 1,
+      "focusTrap": "pass",
+      "fallbackWithoutApi": "pass",
+      "errors": []
+    }
+  ]
+}
