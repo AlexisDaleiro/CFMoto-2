@@ -14,12 +14,14 @@ export function Header({ lineas, panels }: { lineas: NavLine[]; panels: React.Re
   const header = useRef<HTMLElement>(null);
   const [panel, setPanel] = useState<string | null>(null);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [scrollState, setScrollState] = useState({ solid: true, hidden: false });
   useEffect(() => {
     let previous = window.scrollY;
     const onScroll = () => {
       const y = window.scrollY;
-      header.current?.classList.toggle("solid", y > 48 || !document.querySelector(".photo-hero"));
-      header.current?.classList.toggle("header-hidden", y > previous && y > 180 && !header.current?.contains(document.activeElement));
+      const solid = y > 48 || !document.querySelector(".photo-hero");
+      const hidden = y > previous && y > 180 && !header.current?.contains(document.activeElement);
+      setScrollState((current) => current.solid === solid && current.hidden === hidden ? current : { solid, hidden });
       previous = y;
     };
     onScroll();
@@ -34,7 +36,7 @@ export function Header({ lineas, panels }: { lineas: NavLine[]; panels: React.Re
     else { const wasOpen = dialog.current?.open; dialog.current?.close(); if (wasOpen) menuButton.current?.focus(); }
   }, [menuOpen]);
   function closeMenu() { setMenuOpen(false); }
-  return <header ref={header} className="site-header" onKeyDown={(event) => { if (event.key === "Escape") { setPanel(null); (header.current?.querySelector(`[aria-controls="desktop-models-${panel}"]`) as HTMLElement | null)?.focus(); } }}>
+  return <header ref={header} className={`site-header${scrollState.solid ? " solid" : ""}${scrollState.hidden ? " header-hidden" : ""}`} onKeyDown={(event) => { if (event.key === "Escape") { setPanel(null); (header.current?.querySelector(`[aria-controls="desktop-models-${panel}"]`) as HTMLElement | null)?.focus(); } }}>
     <div className="header-inner"><Link prefetch={false} href="/" className="logo" aria-label="CFMOTO Uruguay, inicio" onClick={() => { setPanel(null); closeMenu(); }}><img src="/images/cfmoto-logo.svg" alt="CFMOTO" width={142} height={28} /><span>URUGUAY</span></Link>
       <nav className="desktop-nav" aria-label="Navegación principal">{lineas.map((linea) => <div className="nav-line" key={linea.slug}><Link prefetch={false} href={`/${linea.slug}`} aria-current={pathname.startsWith(`/${linea.slug}`) ? "page" : undefined} onClick={() => setPanel(null)}>{linea.nombre}</Link><button type="button" aria-label={`Modelos de ${linea.nombre}`} aria-expanded={panel === linea.slug} aria-controls={`desktop-models-${linea.slug}`} onClick={() => setPanel(panel === linea.slug ? null : linea.slug)}><svg aria-hidden="true" width="12" height="12" viewBox="0 0 12 12"><path d="m3 4 3 3 3-3" stroke="currentColor" fill="none" /></svg></button></div>)}</nav>
       <Link prefetch={false} href="/cotizar" className="button primary header-quote" onClick={() => setPanel(null)}>Cotizar <Arrow /></Link>
